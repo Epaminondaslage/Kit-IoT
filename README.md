@@ -12,6 +12,8 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
 <img src="https://github.com/Epaminondaslage/Arduino-Uno/blob/master/Figuras/Arduino%20Uno%20R3.png" height="200" width="200">
 
+Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um microcontrolador Atmel AVR com suporte de entrada/saída embutido, uma linguagem de programação padrão, a qual tem origem em Wiring, e é essencialmente C/C++. O objetivo do projeto é criar ferramentas que são acessíveis, com baixo custo, flexíveis e fáceis de se usar por principiantes e profissionais. Principalmente para aqueles que não teriam alcance aos controladores mais sofisticados e ferramentas mais complicadas.
+
 # Wemos D1
 
 <img src="https://github.com/Epaminondaslage/Wemos-D1/blob/master/Figuras/Placa%20Wemos%20D1%20R2.png" height="200" width="200">
@@ -19,6 +21,12 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 É uma plataforma de prototipagem que possui as mesmas dimensões do Arduino Uno R3. As diferenças mais básicas em relação ao Arduino são o conector micro USB e um ESP8266-12E. A Wemos D1 já conta com WiFi nativo, o que a torna uma plataforma extremamente atraente para desenvolvimento de projetos Iot.
 
 # NodeMCU
+
+<img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" height="200" width="200">
+
+O NodeMCU é uma plataforma open source da família ESP8266 criado para ser utilizado no desenvolvimento de projetos ioT. Esta placa foi iniciada em 2014 e é bem interessante, pois ao contrário de alguns módulos desta família que necessitam de um conversor USB serial externo para que haja troca de informações entre computador e o módulo, o NodeMCU já vem com um conversor USB serial integrado.
+
+Esta plataforma é composta basicamente por um chip controlador (ESP8266 ESP-12E), uma porta micro USB para alimentação e programação, conversor USB serial integrado e já possui WiFi nativo.
 
 ## Sumário
 * [Caixa do KIT](#caixa_kit)
