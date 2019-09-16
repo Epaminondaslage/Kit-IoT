@@ -1,10 +1,5 @@
-## JoyStick
+## Rotary Encoder
 
 ![alt text](img/1.jpg)
 
-O JoyStick é um sensor analógico que pode ser usado para controlar o seu arduino.
-
-Os JoySticks analógicos são basicamente potenciômetros, portanto, eles retornam valores que podem ser tornados visíveis usando o código fornecido nesta etapa.
-
-
-Ao clicar no monitor serial, você verá os valores. Depois de mover o JoyStick, os valores serão alterados. Esse código também é útil se você deseja controlar o seu Arduino usando um JoyStick.
+Ao girar, o codificador rotativo pode ser contado na direção positiva e na direção reversa durante a rotação da frequência de pulso de saída, diferentemente do contador do potenciômetro rotativo, cuja contagem de rotação de espécies não é limitada. Com os botões no codificador rotativo pode ser redefinido para seu estado inicial, que começa a contar a partir de 0.
