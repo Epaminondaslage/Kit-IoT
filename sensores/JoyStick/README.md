@@ -1,5 +1,7 @@
 ## JoyStick
 
+![alt text](/sensores/JoyStick/img/1.jpg)
+
 O JoyStick é um sensor analógico que pode ser usado para controlar o seu arduino.
 
 Os JoySticks analógicos são basicamente potenciômetros, portanto, eles retornam valores que podem ser tornados visíveis usando o código fornecido nesta etapa.
