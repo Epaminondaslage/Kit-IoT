@@ -28,15 +28,16 @@ O NodeMCU é uma plataforma open source da família ESP8266 criado para ser util
 
 Esta plataforma é composta basicamente por um chip controlador (ESP8266 ESP-12E), uma porta micro USB para alimentação e programação, conversor USB serial integrado e já possui WiFi nativo.
 
-## Sumário
+## o Kit
 * [Caixa do KIT](#caixa_kit)
-* [Prática 1:  LED Branco ](#/tree/master/pratica_01)
-* [Prática 2:  LED Vermelho](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_02)
-* [Prática 3:  Módulo LED 3W](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_03)
-* [Prática 4:   ](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_04)
-* [Contato](#contato)
 
-<h2 id="informacoes_gerais">Informações Gerais</h2>
+## Sensores
+
+* [Sensor1:    LED Branco ](#/tree/master/pratica_01)
+* [Sensor2:   LED Vermelho](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_02)
+* [Sensor3:  Módulo LED 3W](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_03)
+* [Sensor4:  dsdsdsdsdsdd ](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_04)
+
 
 ## Status
 
