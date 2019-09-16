@@ -14,6 +14,10 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
 # Wemos D1
 
+<img src="https://github.com/Epaminondaslage/Wemos-D1/blob/master/Figuras/Placa%20Wemos%20D1%20R2.png" height="200" width="200">
+
+É uma plataforma de prototipagem que possui as mesmas dimensões do Arduino Uno R3. As diferenças mais básicas em relação ao Arduino são o conector micro USB e um ESP8266-12E. A Wemos D1 já conta com WiFi nativo, o que a torna uma plataforma extremamente atraente para desenvolvimento de projetos Iot.
+
 # NodeMCU
 
 ## Sumário
