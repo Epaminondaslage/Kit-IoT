@@ -1,6 +1,6 @@
 ## Sensor de batimentos cardiacos
 
-![alt text](/sensores/JoyStick/img/1.jpg)
+![alt text](img/1.jpg)
 
 Este sensor usa um LED infravermelho brilhante (infravermelho) e um fototransistor para detectar o pulso do dedo.
 

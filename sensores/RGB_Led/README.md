@@ -1,6 +1,6 @@
 ## LED RGB
 
-![alt text](/sensores/JoyStick/img/1.jpg)
+![alt text](img/1.jpg)
 
 Este LED contém diodos emissores de luz. Um vermelho, um verde e um azul.
 
