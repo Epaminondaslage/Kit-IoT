@@ -1,6 +1,6 @@
 ## Sensor de Chamas
 
-![alt text](/sensores/Sensor de chamas/img/1.jpg)
+![alt text](/sensores/Sensor_de_chamas/img/1.jpg)
 
 Esses sensores são usados para detecção de incêndio de curto alcance.
 
