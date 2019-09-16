@@ -19,3 +19,10 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
 <h2 id="informacoes_gerais">Informações Gerais</h2>
 
+## Status
+
+Este repositório é para alunos do Curso de Eletrotécnica do CEFET-MG
+
+##C ontato
+
+Criado/adaptado por Epaminondas de Souza Lage - epaminondaslage@gmail.com ou epaminondaslage@cefetmg.br
