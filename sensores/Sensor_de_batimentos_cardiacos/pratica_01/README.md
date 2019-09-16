@@ -1,3 +1,3 @@
-## JoyStick - Prática 1
+## Sensor de batimentos cardiacos - Prática 1
 
 Descrição da prática 01

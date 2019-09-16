@@ -1,3 +1,3 @@
-## JoyStick - Prática 2
+## LED RGB - Prática 2
 
 Descrição da prática 02
