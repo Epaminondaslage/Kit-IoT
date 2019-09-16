@@ -7,6 +7,6 @@ Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
 ## Caixa do KIT
-## Prática 1:  LED LBranco 
-## Prática 2:
-## Prática 3:
+## Prática 1:  LED Branco 
+## Prática 2:  LED Vermelho
+## Prática 3:  Módulo LED 3W
