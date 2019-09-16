@@ -13,7 +13,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 * [Caixa do KIT](#caixa_kit)
 * [Prática 1:  LED Branco ](#pratica_1)
 * [Prática 2:  LED Vermelho](#pratica_2)
-* [Prática 3:  Módulo LED 3W(#pratica_3)
+* [Prática 3:  Módulo LED 3W](#pratica_3)
 * [Prática 4:   ](#pratica_4)
 * [Contato](#contato)
 
