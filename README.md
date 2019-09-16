@@ -5,8 +5,17 @@ Este é a descrição de  kit de aprendizado básico do microcontrolador Arduino
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você seja totalmente novo, pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO, porque é de código aberto e fácil de usar. Se você tiver conhecimentos prévios, também pode aplicar este kit a outras plataformas de desenvolvimento de MCU, Raspberries Pi, etc. O princípio de funcionamento é praticamente o mesmo.
 
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
+# Arduino UNO
 
-## Caixa do KIT
-## Prática 1:  LED Branco 
-## Prática 2:  LED Vermelho
-## Prática 3:  Módulo LED 3W
+<img src="https://github.com/Epaminondaslage/Arduino-Uno/blob/master/Figuras/Arduino%20Uno%20R3.png" height="200" width="200">
+
+## Sumário
+* [Caixa do KIT](#caixa_kit)
+* [Prática 1:  LED Branco ](#pratica_1)
+* [Prática 2:  LED Vermelho](#pratica_2)
+* [Prática 3:  Módulo LED 3W(#pratica_3)
+* [Prática 4:   ](#pratica_4)
+* [Contato](#contato)
+
+<h2 id="informacoes_gerais">Informações Gerais</h2>
+
