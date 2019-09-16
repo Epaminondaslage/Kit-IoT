@@ -1,3 +1,3 @@
-## JoyStick - Prática 1
+## Chave de Mercúrio - Prática 1
 
 Descrição da prática 01

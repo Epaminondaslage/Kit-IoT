@@ -1,3 +1,3 @@
-## JoyStick - Prática 2
+## Sensor Hall Magnético - Prática 2
 
 Descrição da prática 02
