@@ -30,10 +30,10 @@ Esta plataforma é composta basicamente por um chip controlador (ESP8266 ESP-12E
 
 ## Sumário
 * [Caixa do KIT](#caixa_kit)
-* [Prática 1:  LED Branco ](#/Lab-IoT-ELE-CEFET/blob/master/pratica_01)
-* [Prática 2:  LED Vermelho](#pratica_2)
-* [Prática 3:  Módulo LED 3W](#pratica_3)
-* [Prática 4:   ](#pratica_4)
+* [Prática 1:  LED Branco ](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_01)
+* [Prática 2:  LED Vermelho](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_02)
+* [Prática 3:  Módulo LED 3W](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_03)
+* [Prática 4:   ](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_04)
 * [Contato](#contato)
 
 <h2 id="informacoes_gerais">Informações Gerais</h2>
