@@ -1,3 +1,3 @@
-## JoyStick - Prática 2
+## Sensor Hall Linear - Prática 2
 
 Descrição da prática 02

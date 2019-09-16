@@ -1,3 +1,3 @@
-## JoyStick - Prática 2
+## Tilt Switch - Prática 2
 
 Descrição da prática 02

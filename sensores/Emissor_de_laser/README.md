@@ -1,10 +1,7 @@
-## JoyStick
+## Emissor de Laser
 
 ![alt text](img/1.jpg)
 
-O JoyStick é um sensor analógico que pode ser usado para controlar o seu arduino.
+Este é um módulo de laser que emite uma luz de laser quando energizado.
 
-Os JoySticks analógicos são basicamente potenciômetros, portanto, eles retornam valores que podem ser tornados visíveis usando o código fornecido nesta etapa.
-
-
-Ao clicar no monitor serial, você verá os valores. Depois de mover o JoyStick, os valores serão alterados. Esse código também é útil se você deseja controlar o seu Arduino usando um JoyStick.
+Há também um pino de sinal que permite fazer o laser piscar, por exemplo.
