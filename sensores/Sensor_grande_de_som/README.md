@@ -1,7 +1,24 @@
-## Sensor grande de som
+## Sensor de som alto
 
-![alt text](img/1.jpg)
+![alt text](img/1.png)
 
-Este sensor pode detectar som e emitir um sinal analógico e um sinal digital que pode ser usado para, por exemplo, criar um interruptor de luz de bater palmas. 
+O objetivo deste sensor é medir a intensidade sonora do ambiente ao seu redor, variando o estado de sua saída digital caso detectado um sinal sonoro. Possui um microfone de condensador elétrico e pode ser usado em sistemas de alarme por exemplo.
 
-Este sensor é muito útil com o módulo de relé.
+ 
+
+## Especificações:
+
+- Comparador LM393
+- Tensão de Operação: 3.3-5V DC
+- Sensibilidade ajustável via potenciômetro
+- Saída Digital
+- Fácil instalação
+- Led indicador para saída digital
+
+ 
+
+## Pinagem:
+
+- GND: Terra
+- OUT: Saída Digital
+- VCC: Tensão de Entrada 3.3-5Vv
