@@ -13,7 +13,7 @@ Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto
 
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
-# Arduino UNO
+## Arduino UNO
 <table>
 <tbody>
 <tr>
@@ -25,7 +25,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 
-# Wemos D1
+## Wemos D1
 <table>
 <tbody>
 <tr>
@@ -37,7 +37,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 
-# NodeMCU
+## NodeMCU
 <table>
 <tbody>
 <tr>
