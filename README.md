@@ -19,7 +19,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
 # Wemos D1
 <table>
 <tbody>
@@ -31,7 +31,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
 # NodeMCU
 <table>
 <tbody>
@@ -44,23 +44,26 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
 ## Kit
-* [](#caixa_kit)
 <table>
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" width="100%" /></td>
+<td style="width: 30%;"><img src="/img/kit.jpeg" width="100%" /></td>
 <td style="width: 70%;">
-<p>Caixa do KIT</p>
+<p> A caixa do KIT foi projetada e construída usando a tecnologia de impressão 3D. Já utilizada em diversos segmentos, em especial, para pequenas produções. Todas as peças plásticas foram feitas em impressoras tridimensionais com o objetivo de facilitar a montagem dos sensores aos microcontroladores e fonte de alimentação.</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 
 ## Sensores
 
+<td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
+
+Reunimos 40 sensores e módulos básicos, visando o aprendizado conveniente para iniciantes. Dentro desta caixa, existem sensores digitais e analógicos, atuadores e também alguns módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
+Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você for um iniciante, você pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO e são fáceis de usar. Pode aplicar este kit a outras plataformas de desenvolvimento de MCU e WEMOS D1 os quais compões este kit. O princípio de funcionamento é praticamente o mesmo.
+Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
 ## Status
 
