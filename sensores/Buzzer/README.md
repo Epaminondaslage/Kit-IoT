@@ -1,8 +1,8 @@
 ## Buzzer
 
-<p><img src="img/1.png" alt="" width="50%" /></p>
+<p><img src="img/1.png" width="50%" /></p>
 
-## Características
+# Características
 
 - tensão de trabalho de3.3 V para 5 V
 - furo passante fixo, a instalação conveniente
