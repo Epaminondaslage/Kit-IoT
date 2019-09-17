@@ -9,34 +9,58 @@ Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
 # Arduino UNO
-
-<img src="https://github.com/Epaminondaslage/Arduino-Uno/blob/master/Figuras/Arduino%20Uno%20R3.png" height="200" width="200">
-
-Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um microcontrolador Atmel AVR com suporte de entrada/saída embutido, uma linguagem de programação padrão, a qual tem origem em Wiring, e é essencialmente C/C++. O objetivo do projeto é criar ferramentas que são acessíveis, com baixo custo, flexíveis e fáceis de se usar por principiantes e profissionais. Principalmente para aqueles que não teriam alcance aos controladores mais sofisticados e ferramentas mais complicadas.
-
+<table>
+<tbody>
+<tr>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Arduino-Uno/blob/master/Figuras/Arduino%20Uno%20R3.png" width="100%" /></td>
+<td style="width: 70%;">
+<p>Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um microcontrolador Atmel AVR com suporte de entrada/saída embutido, uma linguagem de programação padrão, a qual tem origem em Wiring, e é essencialmente C/C++. O objetivo do projeto é criar ferramentas que são acessíveis, com baixo custo, flexíveis e fáceis de se usar por principiantes e profissionais. Principalmente para aqueles que não teriam alcance aos controladores mais sofisticados e ferramentas mais complicadas.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 # Wemos D1
-
-<img src="https://github.com/Epaminondaslage/Wemos-D1/blob/master/Figuras/Placa%20Wemos%20D1%20R2.png" height="200" width="200">
-
-É uma plataforma de prototipagem que possui as mesmas dimensões do Arduino Uno R3. As diferenças mais básicas em relação ao Arduino são o conector micro USB e um ESP8266-12E. A Wemos D1 já conta com WiFi nativo, o que a torna uma plataforma extremamente atraente para desenvolvimento de projetos Iot.
-
+<table>
+<tbody>
+<tr>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Wemos-D1/blob/master/Figuras/Placa%20Wemos%20D1%20R2.png" width="100%" /></td>
+<td style="width: 70%;">
+<p>É uma plataforma de prototipagem que possui as mesmas dimensões do Arduino Uno R3. As diferenças mais básicas em relação ao Arduino são o conector micro USB e um ESP8266-12E. A Wemos D1 já conta com WiFi nativo, o que a torna uma plataforma extremamente atraente para desenvolvimento de projetos Iot.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 # NodeMCU
+<table>
+<tbody>
+<tr>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" width="100%" /></td>
+<td style="width: 70%;">
+<p>O NodeMCU &eacute; uma plataforma open source da fam&iacute;lia ESP8266 criado para ser utilizado no desenvolvimento de projetos ioT. Esta placa foi iniciada em 2014 e &eacute; bem interessante, pois ao contr&aacute;rio de alguns m&oacute;dulos desta fam&iacute;lia que necessitam de um conversor USB serial externo para que haja troca de informa&ccedil;&otilde;es entre computador e o m&oacute;dulo, o NodeMCU j&aacute; vem com um conversor USB serial integrado.</p>
+<p>Esta plataforma &eacute; composta basicamente por um chip controlador (ESP8266 ESP-12E), uma porta micro USB para alimenta&ccedil;&atilde;o e programa&ccedil;&atilde;o, conversor USB serial integrado e j&aacute; possui WiFi nativo.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+## Kit
+* [](#caixa_kit)
+<table>
+<tbody>
+<tr>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" width="100%" /></td>
+<td style="width: 70%;">
+<p>Caixa do KIT</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
-<img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" height="200" width="200">
+## Sensores
 
-O NodeMCU é uma plataforma open source da família ESP8266 criado para ser utilizado no desenvolvimento de projetos ioT. Esta placa foi iniciada em 2014 e é bem interessante, pois ao contrário de alguns módulos desta família que necessitam de um conversor USB serial externo para que haja troca de informações entre computador e o módulo, o NodeMCU já vem com um conversor USB serial integrado.
-
-Esta plataforma é composta basicamente por um chip controlador (ESP8266 ESP-12E), uma porta micro USB para alimentação e programação, conversor USB serial integrado e já possui WiFi nativo.
-
-## Sumário
-* [Caixa do KIT](#caixa_kit)
-* [Prática 1:  LED Branco ](#/tree/master/pratica_01)
-* [Prática 2:  LED Vermelho](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_02)
-* [Prática 3:  Módulo LED 3W](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_03)
-* [Prática 4:   ](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_04)
-* [Contato](#contato)
-
-<h2 id="informacoes_gerais">Informações Gerais</h2>
 
 ## Status
 
