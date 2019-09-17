@@ -1,6 +1,6 @@
 ## Sensor de batimentos cardiacos
 
-![alt text](img/1.png)
+<p><img src="img/1.png" width="50%" /></p>
 
 O "Sensor monitor de pulso batimentos cardíaco infravermelho" é baseado em um emissor e um receptor de infravermelho. Ao colocar o dedo entre os emissor e receptor, é possível monitorar os batimentos cardíacos, pois quando o coração bate, a pressão aumenta, por consequência o volume de sangue também, o que muda a quantidade de luz infravermelha que consegue atravessar o nosso dedo.
 
@@ -8,7 +8,7 @@ O "Sensor monitor de pulso batimentos cardíaco infravermelho" é baseado em um 
 
 O "Sensor monitor de pulso batimentos cardíaco infravermelho" pode ser usado em projetos de monitoramento de batimentos cardíacos, por exemplo para crianças e idosos, os quais necessitam de uma atenção maior. Com o auxílio de um microcontrolador pode se criar um circuito que acione um alarme caso os batimentos cardíacos alterem acima ou abaixo de uma margem pré-definida.
 
-## Características ##
+# Características
 
 - Tensão de trabalho: 5V
 - Dimensões: 25mm x 22mm x 17mm
