@@ -1,6 +1,10 @@
 ## Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU
 
-Vivemos em uma época em que a evolução tecnológica surpreende – e, às vezes, assusta – por sua velocidade. Nos últimos anos, vimos a miniaturização de dispositivos eletrônicos e o aumento exponencial da capacidade de processamento e armazenamento de dados. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm garantido que cada vez mais possamos monitorar diferentes grandezas físicas e oferecer acesso simultâneo a dados por diferentes públicos. Dentro de uma indústria, monitorar grandezas como corrente elétrica, campo eletromagnético e temperatura permite que um sistema supervisório avalie o melhor momento de realizar uma manutenção preditiva. No setor de transportes e logística, o controle de movimentação de cargas e veículos permite o rastreio de encomendas e a gestão de frotas. Em uma cidade, o controle de tráfego pode ser otimizado pelo controle de velocidade e por semáforos inteligentes. Em construções, os sistemas de segurança estão cada vez mais interligados, permitindo uma avaliação mais adequada, precisa e integral dos riscos, seja pela polícia, seja pelos sistemas de segurança privados. No setor biomédico, sensores podem permitir a avaliação da queda de um idoso ou da forma como está sendo desenvolvida uma atividade física. Enfim, todas as “coisas” podem ser monitoradas ou fornecer dados. Esse é o fundamento da “Internet das Coisas”: proporcionar o acesso a dados por meio da internet, para os mais diferentes fins de automação, controle e otimização do cotidiano das pessoas. Esta KIT apresenta informações introdutórias de como fazer isso utilizando uma das tecnologias embarcadas mais difundidas, a plataforma Arduino. O objetivo é despertar o interesse do aluno do Curso de Eletrotécnica do CEFET-MG para as mais diferentes aplicações baseadas nos conceitos da Internet das Coisas.
+Vivemos em uma época em que a evolução tecnológica surpreende – e, às vezes, assusta – por sua velocidade. Nos últimos anos, vimos a miniaturização de dispositivos eletrônicos e o aumento exponencial da capacidade de processamento e armazenamento de dados. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm garantido que cada vez mais possamos monitorar diferentes grandezas físicas e oferecer acesso simultâneo a dados por diferentes públicos. 
+
+Dentro de uma indústria, monitorar grandezas como corrente elétrica, campo eletromagnético e temperatura permite que um sistema supervisório avalie o melhor momento de realizar uma manutenção preditiva. No setor de transportes e logística, o controle de movimentação de cargas e veículos permite o rastreio de encomendas e a gestão de frotas. Em uma cidade, o controle de tráfego pode ser otimizado pelo controle de velocidade e por semáforos inteligentes. Em construções, os sistemas de segurança estão cada vez mais interligados, permitindo uma avaliação mais adequada, precisa e integral dos riscos, seja pela polícia, seja pelos sistemas de segurança privados. No setor biomédico, sensores podem permitir a avaliação da queda de um idoso ou da forma como está sendo desenvolvida uma atividade física. Enfim, todas as “coisas” podem ser monitoradas ou fornecer dados. 
+
+Esse é o fundamento da “Internet das Coisas”: proporcionar o acesso a dados por meio da internet, para os mais diferentes fins de automação, controle e otimização do cotidiano das pessoas. Este KIT apresenta informações introdutórias de como fazer isso utilizando uma das tecnologias embarcadas mais difundidas, a plataforma Arduino. O objetivo é despertar o interesse do aluno do Curso de Eletrotécnica do CEFET-MG para as mais diferentes aplicações baseadas nos conceitos da Internet das Coisas.
 <p style="text-align: center;"><img src="img/iot.png" width="50%" />
 
 Neste repositório o aluno encontrará uma descrição completa do KIT de sensores do Laboratório de IoT do Curso de Eletrotécnica do CEFET-MG. Fundamente-se no aprendizado básico do microcontrolador Arduino com  sensores. Reunimos 37 sensores e módulos básicos, visando o aprendizado conveniente para iniciantes. Neste kit, existem sensores digitais e analógicos e também alguns módulos especiais, como ultrassom, Bluetooth, módulo de aceleração, entre outros.
@@ -9,7 +13,7 @@ Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto
 
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
-# Arduino UNO
+## Arduino UNO
 <table>
 <tbody>
 <tr>
@@ -21,7 +25,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 
-# Wemos D1
+## Wemos D1
 <table>
 <tbody>
 <tr>
@@ -33,7 +37,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 
-# NodeMCU
+## NodeMCU
 <table>
 <tbody>
 <tr>
@@ -101,6 +105,9 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 * <a href="sensores/Sensor_pequeno_de_som"> Sensor de som baixo</a>         		
 * <a href="sensores/Tilt_Switch"> Tilt Switch</a>
 
+## Material Didático
+
+Neste repositótio está disponibilizado ppt, apostilas, manuais, etc.
 
 ## Status
 

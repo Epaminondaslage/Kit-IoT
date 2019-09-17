@@ -1,12 +1,11 @@
-## Sensor de som alto
+## Sensor de som tamanho grande
 
-![alt text](img/1.png)
+
+<p><img src="img/1.png" width="50%" /></p>
 
 O objetivo deste sensor é medir a intensidade sonora do ambiente ao seu redor, variando o estado de sua saída digital caso detectado um sinal sonoro. Possui um microfone de condensador elétrico e pode ser usado em sistemas de alarme por exemplo.
 
- 
-
-## Especificações:
+# Especificações:
 
 - Comparador LM393
 - Tensão de Operação: 3.3-5V DC
@@ -15,9 +14,7 @@ O objetivo deste sensor é medir a intensidade sonora do ambiente ao seu redor, 
 - Fácil instalação
 - Led indicador para saída digital
 
- 
-
-## Pinagem:
+ # Pinagem:
 
 - GND: Terra
 - OUT: Saída Digital
