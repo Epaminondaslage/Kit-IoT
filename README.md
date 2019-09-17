@@ -20,9 +20,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 <p>&nbsp;</p>
-
 # Wemos D1
-
 <table>
 <tbody>
 <tr>
@@ -34,9 +32,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 <p>&nbsp;</p>
-
 # NodeMCU
-
 <table>
 <tbody>
 <tr>
@@ -49,9 +45,19 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 <p>&nbsp;</p>
-
 ## Kit
-* [Caixa do KIT](#caixa_kit)
+* [](#caixa_kit)
+<table>
+<tbody>
+<tr>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" width="100%" /></td>
+<td style="width: 70%;">
+<p>Caixa do KIT</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
 ## Sensores
 
