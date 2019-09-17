@@ -67,39 +67,39 @@ Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
 * <a href="sensores/Botao"> Botao </a> 
-* Buzzer           		
-* Chave_de_mercurio           	
-* Emissor_de_infravermelho           	
-* Emissor_de_laser           	
-* Fotoresistor           	
-* Interruptor_de_inclinacao_do_mercurio           	
-* Interruptor_reed           	
-* JoyStick           	
-* LED_Flash_de_7_Colores           	
-LED_de_duas_cores           	
-Mini_interruptor_reed           	
-RGB_Led           	
-Receptor_de_infravermelho           	
-Rele           	
-Rotary_Encoder           		
-SMD_RGB_LED           	
-Sensor_Hall_Linear           		
-Sensor_Hall_Magnetico           	
-Sensor_Hall_analogico           	
-Sensor_de_batimentos_cardiacos           	
-Sensor_de_bloqueio_de_luz           		
-Sensor_de_chamas           	
-Sensor_de_choque           	
-Sensor_de_obstaculo		
-Sensor_de_rastreamento           		
-Sensor_de_temperatura           	
-Sensor_de_temperatura_analogico           		
-Sensor_de_temperatura_digital           	
-Sensor_de_temperatura_e_humidade           		
-Sensor_de_toque           	Sensores 	
-Sensor_grande_de_som           		
-Sensor_pequeno_de_som           		
-Tilt_Switch
+* <a href="sensores/Botao"> Buzzer   </a>        		
+* <a href="sensores/Botao"> Chave_de_mercurio </a>          	
+* <a href="sensores/Botao"> Emissor_de_infravermelho </a>          	
+* <a href="sensores/Botao"> Emissor_de_laser </a>          	
+* <a href="sensores/Botao">Fotoresistor  </a>         	
+* <a href="sensores/Botao"> Interruptor_de_inclinacao_do_mercurio </a>          	
+* <a href="sensores/Botao"> Interruptor_reed  </a>         	
+* <a href="sensores/Botao"> JoyStick  </a>         	
+* <a href="sensores/Botao"> LED_Flash_de_7_Colores  </a>         	
+* <a href="sensores/Botao"> LED_de_duas_cores    </a>       	
+* <a href="sensores/Botao"> Mini_interruptor_reed </a>          	
+* <a href="sensores/Botao"> RGB_Led      </a>     	
+* <a href="sensores/Botao"> Receptor_de_infravermelho  </a>         	
+* <a href="sensores/Botao"> Rele </a>          	
+* <a href="sensores/Botao"> Rotary_Encoder </a>          		
+* <a href="sensores/Botao"> SMD_RGB_LED    </a>       	
+* <a href="sensores/Botao"> Sensor_Hall_Linear </a>          		
+* <a href="sensores/Botao"> Sensor_Hall_Magnetico  </a>         	
+* <a href="sensores/Botao"> Sensor_Hall_analogico  </a>         	
+* <a href="sensores/Botao"> Sensor_de_batimentos_cardiacos </a>          	
+* <a href="sensores/Botao"> Sensor_de_bloqueio_de_luz  </a>         		
+* <a href="sensores/Botao"> Sensor_de_chamas     </a>      	
+* <a href="sensores/Botao"> Sensor_de_choque      </a>     	
+* <a href="sensores/Botao"> Sensor_de_obstaculo		</a>
+* <a href="sensores/Botao"> Sensor_de_rastreamento  </a>         		
+* <a href="sensores/Botao"> Sensor_de_temperatura   </a>        	
+* <a href="sensores/Botao"> Sensor_de_temperatura_analogico </a>          		
+* <a href="sensores/Botao"> Sensor_de_temperatura_digital    </a>       	
+* <a href="sensores/Botao"> Sensor_de_temperatura_e_humidade  </a>         		
+* <a href="sensores/Botao"> Sensor_de_toque     </a>
+* <a href="sensores/Botao"> Sensor_grande_de_som   </a>        		
+* <a href="sensores/Botao"> Sensor_pequeno_de_som  </a>         		
+* <a href="sensores/Botao"> Tilt_Switch</a>
 
 
 ## Status
