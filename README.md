@@ -22,21 +22,23 @@ Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de pla
 
 # NodeMCU
 
-<img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" height="200" width="200">
+<table>
+<tbody>
+<tr>
+<td><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" height="200" width="200"></td>
+<td>
+<p>O NodeMCU &eacute; uma plataforma open source da fam&iacute;lia ESP8266 criado para ser utilizado no desenvolvimento de projetos ioT. Esta placa foi iniciada em 2014 e &eacute; bem interessante, pois ao contr&aacute;rio de alguns m&oacute;dulos desta fam&iacute;lia que necessitam de um conversor USB serial externo para que haja troca de informa&ccedil;&otilde;es entre computador e o m&oacute;dulo, o NodeMCU j&aacute; vem com um conversor USB serial integrado.</p>
+<p>Esta plataforma &eacute; composta basicamente por um chip controlador (ESP8266 ESP-12E), uma porta micro USB para alimenta&ccedil;&atilde;o e programa&ccedil;&atilde;o, conversor USB serial integrado e j&aacute; possui WiFi nativo.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
 
-O NodeMCU é uma plataforma open source da família ESP8266 criado para ser utilizado no desenvolvimento de projetos ioT. Esta placa foi iniciada em 2014 e é bem interessante, pois ao contrário de alguns módulos desta família que necessitam de um conversor USB serial externo para que haja troca de informações entre computador e o módulo, o NodeMCU já vem com um conversor USB serial integrado.
-
-Esta plataforma é composta basicamente por um chip controlador (ESP8266 ESP-12E), uma porta micro USB para alimentação e programação, conversor USB serial integrado e já possui WiFi nativo.
-
-## o Kit
+## Kit
 * [Caixa do KIT](#caixa_kit)
 
 ## Sensores
-
-* [Sensor1:    LED Branco ](#/tree/master/pratica_01)
-* [Sensor2:   LED Vermelho](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_02)
-* [Sensor3:  Módulo LED 3W](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_03)
-* [Sensor4:  dsdsdsdsdsdd ](#https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/tree/master/pratica_04)
 
 
 ## Status
