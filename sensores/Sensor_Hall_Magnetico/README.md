@@ -1,9 +1,5 @@
 ## Sensor Hall Magnético
 
-![alt text](img/1.jpg)
+![alt text](img/1.png)
 
-O sensor Hall magnético é um interruptor magnético. 
-
-Se nenhum campo magnético estiver presente, a linha de sinal do sensor é ALTA. Se um campo magnético é apresentado ao sensor, a linha de sinal fica BAIXA, ao mesmo tempo em que o LED no sensor acende. 
-
-A polaridade do campo magnético influencia a ação de comutação. A parte frontal do sensor precisa da polaridade oposta à da parte traseira do sensor para ligar.
+Funciona como um interruptor usando o princípio de efeito hall, utiliza a tecnologia de fabricação de semicondutores integrados de susceptibilidade magnética do circuito. É pelo regulador de tensão, gerador de tensão hall, contendo um amplificador diferencial, schmidt trigger, circuito de compensação de temperatura e o estágio de saída de coletor aberto composto de circuito sensível sensor magnético, tem seu acionamento de entrada para a intensidade de indução magnética, a saída é um sinal de tensão digital.
