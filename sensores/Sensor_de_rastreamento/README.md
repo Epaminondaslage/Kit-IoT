@@ -1,10 +1,10 @@
 ## Sensor de rastreamento
 
-![alt text](img/1.png)
+<p><img src="img/1.png" width="50%" /></p>
 
 Sensor de rastreio infravermelho da trilha preta. 
 
-## Especificação
+# Especificação
 
 - Usa sensor de reflexão infravermelho TCRT5000
 - Distância de reflexão de detecção: 1mm 25mm
