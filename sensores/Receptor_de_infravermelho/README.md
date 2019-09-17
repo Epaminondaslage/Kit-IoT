@@ -1,12 +1,10 @@
 ## Receptor de infravermelho
 
-![alt text](img/1.png)
-
+<p><img src="img/1.png" width="50%" /></p>
 
 O Receptor Infravermelho 1338B é um componente eletrônico projetado para receptar sinais infravermelhos enviados por dispositivos remotos, os quais contenham comandos específicos enviados a uma placa microcontroladores. Compatível com a maioria dos sistemas microcontroladores, entre eles, Arduino, o Receptor Infravermelho 1338B é de fácil instalação, já que conta 3 pinos para ligação com a placa do microcontrolador.
 Um exemplo prático a ser destacado de sua utilização é na aplicação em que um controle remoto envia sinais infravermelhos codificados para a placa do microcontrolador, que os recepta através do Receptor Infravermelho 1338B, processando os dados recebidos e enviando os comandos a outros dispositivos eletrônicos.
  
-
 # CARACTERÍSTICAS:
 
 - Receptor infravermelho 1838B;
