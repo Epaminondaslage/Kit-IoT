@@ -2,8 +2,4 @@
 
 ![alt text](img/1.jpg)
 
-É claro que este é um botão. Nada mais nada menos...
-
-Emite um sinal digital.
-
-Além disso, não há muito a dizer sobre este módulo.
+É um módulo pronto para uso em projetos eletrônicos que necessitem de um simples dispositivo de entrada digital, e pode ser usado nos mais variados circuitos eletrônicos e placas como por exemplo Arduino.
