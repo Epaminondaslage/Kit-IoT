@@ -22,11 +22,11 @@ Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de pla
 
 # NodeMCU
 
-<table style="width: 566px;">
+<table>
 <tbody>
 <tr>
-<td style="width: 324px;"><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" width="200" height="200" /></td>
-<td style="width: 426px;">
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" width="100%" /></td>
+<td style="width: 70%;">
 <p>O NodeMCU &eacute; uma plataforma open source da fam&iacute;lia ESP8266 criado para ser utilizado no desenvolvimento de projetos ioT. Esta placa foi iniciada em 2014 e &eacute; bem interessante, pois ao contr&aacute;rio de alguns m&oacute;dulos desta fam&iacute;lia que necessitam de um conversor USB serial externo para que haja troca de informa&ccedil;&otilde;es entre computador e o m&oacute;dulo, o NodeMCU j&aacute; vem com um conversor USB serial integrado.</p>
 <p>Esta plataforma &eacute; composta basicamente por um chip controlador (ESP8266 ESP-12E), uma porta micro USB para alimenta&ccedil;&atilde;o e programa&ccedil;&atilde;o, conversor USB serial integrado e j&aacute; possui WiFi nativo.</p>
 </td>
