@@ -16,5 +16,3 @@ O LED RGB tem a capacidade de exibir uma grande quantidade de cores que são ori
 – Comprimento de onda (azul): 470nm
 – Temperatura de operação: -40º a 85º celsius
 – Ângulo de abertura: 30º
-
-
