@@ -66,16 +66,16 @@ Reunimos 40 sensores e módulos básicos, visando o aprendizado conveniente para
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você for um iniciante, você pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO e são fáceis de usar. Pode aplicar este kit a outras plataformas de desenvolvimento de MCU e WEMOS D1 os quais compões este kit. O princípio de funcionamento é praticamente o mesmo.
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
-* <a href="Sensores/botao"> Botao </a> 
+* <a href="tree/master/sensores/Botao"> Botao </a> 
 * Buzzer           		
-Chave_de_mercurio           	
-Emissor_de_infravermelho           	
-Emissor_de_laser           	
-Fotoresistor           	
-Interruptor_de_inclinacao_do_mercurio           	
-Interruptor_reed           	
-JoyStick           	
-LED_Flash_de_7_Colores           	
+* Chave_de_mercurio           	
+* Emissor_de_infravermelho           	
+* Emissor_de_laser           	
+* Fotoresistor           	
+* Interruptor_de_inclinacao_do_mercurio           	
+* Interruptor_reed           	
+* JoyStick           	
+* LED_Flash_de_7_Colores           	
 LED_de_duas_cores           	
 Mini_interruptor_reed           	
 RGB_Led           	
