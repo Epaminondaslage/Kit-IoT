@@ -89,7 +89,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 * <a href="sensores/Sensor_de_batimentos_cardiacos"> Sensor de batimentos cardíacos</a>          	
 * <a href="sensores/Sensor_de_bloqueio_de_luz"> Sensor de bloqueio de luz</a>         		
 * <a href="sensores/Sensor_de_chamas"> Sensor de chamas</a>      	
-* <a href="sensores/Sensor_de_vibração"> Sensor de vibração</a>     	
+* <a href="sensores/Sensor_de_vibracao"> Sensor de vibração</a>     	
 * <a href="sensores/Sensor_de_obstaculo"> Sensor de obstáculo</a>
 * <a href="sensores/Sensor_de_rastreamento"> Sensor de rastreamento</a>         		
 * <a href="sensores/Sensor_de_temperatura"> Sensor de temperatura</a>        	
