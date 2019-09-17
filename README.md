@@ -19,7 +19,6 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 
 # Wemos D1
 <table>
@@ -32,7 +31,6 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 
 # NodeMCU
 <table>
@@ -46,7 +44,6 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 
 ## Kit
 <table>
@@ -59,9 +56,10 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 
 ## Sensores
+
+<td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
 
 Reunimos 40 sensores e módulos básicos, visando o aprendizado conveniente para iniciantes. Dentro desta caixa, existem sensores digitais e analógicos, atuadores e também alguns módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você for um iniciante, você pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO e são fáceis de usar. Pode aplicar este kit a outras plataformas de desenvolvimento de MCU e WEMOS D1 os quais compões este kit. O princípio de funcionamento é praticamente o mesmo.
