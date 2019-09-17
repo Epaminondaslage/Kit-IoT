@@ -9,18 +9,29 @@ O limite de detecção pode ser ajustado através do potenciômetro presente no 
 # Especificações:
 
 – Marca: KEYES
+
 – Modelo: KY-038
+
 – Comparador LM393
+
 – Tensão de Operação: 4-6v DC
+
 – Sensibilidade ajustável via potenciômetro
+
 – Saída Digital e Analógica
+
 – Fácil instalação
+
 – Led indicador para tensão
+
 – Led indicador para saída digital
 
 # Pinagem:
 
 – AO: Saída Analógica
+
 – GND: Terra
+
 – VCC: Tensão de Entrada 3-24v
+
 – DO: Saída Digital
