@@ -62,9 +62,45 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
 <td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
 
-Reunimos 40 sensores e módulos básicos, visando o aprendizado conveniente para iniciantes. Dentro desta caixa, existem sensores digitais e analógicos, atuadores e também alguns módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
+Reunimos sensores, atuadores, displays, LEDs, resistores e módulos básicos, visando o aprendizado conveniente para iniciantes. Dentro desta caixa, existem diversos módulos de sensores digitais e analógicos, atuadores e também alguns módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você for um iniciante, você pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO e são fáceis de usar. Pode aplicar este kit a outras plataformas de desenvolvimento de MCU e WEMOS D1 os quais compões este kit. O princípio de funcionamento é praticamente o mesmo.
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
+
+* <a href="sensores/Botao">Botão</a> 
+* <a href="sensores/Buzzer">Buzzer</a>        		
+* <a href="sensores/Chave_de_mercurio">Chave de mercúrio</a>          	
+* <a href="sensores/Emissor_de_infravermelho">Emissor de infravermelho</a>          	
+* <a href="sensores/Emissor_de_laser"> Emissor de laser</a>          	
+* <a href="sensores/Fotoresistor">Fotoresistor</a>         	
+* <a href="sensores/Interruptor_de_inclinacao_do_mercurio"> Interruptor de inclinação do mercúrio</a>          	
+* <a href="sensores/Interruptor_reed"> Interruptor reed</a>         	
+* <a href="sensores/JoyStick"> JoyStick</a>         	
+* <a href="sensores/LED_Flash_de_7_Colore"> LED Flash de 7 Colores</a>         	
+* <a href="sensores/LED_de_duas_coreso"> LED de duas cores</a>       	
+* <a href="sensores/Mini_interruptor_reed"> Mini interruptor reed</a>          	
+* <a href="sensores/RGB_Led"> LED RGB</a>     	
+* <a href="sensores/Receptor_de_infravermelho"> Receptor de infravermelho</a>         	
+* <a href="sensores/Rele"> Relé</a>          	
+* <a href="sensores/Rotary_Encoder"> Encoder rotativo</a>          		
+* <a href="sensores/SMD_RGB_LED"> LED RGB SMD</a>       	
+* <a href="sensores/Sensor_Hall_Linear"> Sensor Hall Linear</a>          		
+* <a href="sensores/Sensor_Hall_Magnetico"> Sensor Hall Magnético</a>         	
+* <a href="sensores/Sensor_Hall_analogico"> Sensor Hall analógico</a>         	
+* <a href="sensores/Sensor_de_batimentos_cardiacos"> Sensor de batimentos cardíacos</a>          	
+* <a href="sensores/Sensor_de_bloqueio_de_luz"> Sensor de bloqueio de luz</a>         		
+* <a href="sensores/Sensor_de_chamas"> Sensor de chamas</a>      	
+* <a href="sensores/Sensor_de_choque"> Sensor de choque</a>     	
+* <a href="sensores/Sensor_de_obstaculo"> Sensor de obstáculo</a>
+* <a href="sensores/Sensor_de_rastreamento"> Sensor de rastreamento</a>         		
+* <a href="sensores/Sensor_de_temperatura"> Sensor de temperatura</a>        	
+* <a href="sensores/Sensor_de_temperatura_analogico"> Sensor de temperatura analógico</a>          		
+* <a href="sensores/Sensor_de_temperatura_digital "> Sensor de temperatura digital</a>       	
+* <a href="sensores/Sensor_de_temperatura_e_humidade"> Sensor de temperatura e humidade</a>         		
+* <a href="sensores/Sensor_de_toque"> Sensor de toque</a>
+* <a href="sensores/Sensor_grande_de_som"> Sensor de som alto</a>        		
+* <a href="sensores/Sensor_pequeno_de_som"> Sensor de som baixo</a>         		
+* <a href="sensores/Tilt_Switch"> Tilt Switch</a>
+
 
 ## Status
 

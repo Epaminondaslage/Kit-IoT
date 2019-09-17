@@ -7,9 +7,16 @@ O Sensor Hall de Campo Magnético KY-024 é um módulo eletrônico desenvolvido 
 – Especificações e características:
 
 – Modelo: KY-024
+
 – Sensor Hall: 49E
+
 – Controlador: LM393
+
 – Tensão de operação: 5VDC
+
 – Saída digital e analógica
+
 – LED indicador para presença de tensão
+
 – LED indicador para saída digital
+
