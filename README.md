@@ -66,6 +66,42 @@ Reunimos 40 sensores e módulos básicos, visando o aprendizado conveniente para
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você for um iniciante, você pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO e são fáceis de usar. Pode aplicar este kit a outras plataformas de desenvolvimento de MCU e WEMOS D1 os quais compões este kit. O princípio de funcionamento é praticamente o mesmo.
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 
+* <a href="Sensores/botao"> Botao </a> 
+* Buzzer           		
+Chave_de_mercurio           	
+Emissor_de_infravermelho           	
+Emissor_de_laser           	
+Fotoresistor           	
+Interruptor_de_inclinacao_do_mercurio           	
+Interruptor_reed           	
+JoyStick           	
+LED_Flash_de_7_Colores           	
+LED_de_duas_cores           	
+Mini_interruptor_reed           	
+RGB_Led           	
+Receptor_de_infravermelho           	
+Rele           	
+Rotary_Encoder           		
+SMD_RGB_LED           	
+Sensor_Hall_Linear           		
+Sensor_Hall_Magnetico           	
+Sensor_Hall_analogico           	
+Sensor_de_batimentos_cardiacos           	
+Sensor_de_bloqueio_de_luz           		
+Sensor_de_chamas           	
+Sensor_de_choque           	
+Sensor_de_obstaculo		
+Sensor_de_rastreamento           		
+Sensor_de_temperatura           	
+Sensor_de_temperatura_analogico           		
+Sensor_de_temperatura_digital           	
+Sensor_de_temperatura_e_humidade           		
+Sensor_de_toque           	Sensores 	
+Sensor_grande_de_som           		
+Sensor_pequeno_de_som           		
+Tilt_Switch
+
+
 ## Status
 
 Este repositório é para alunos do Curso de Eletrotécnica do CEFET-MG
