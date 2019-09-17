@@ -1,10 +1,11 @@
 ## Sensor Hall Linear
 
-![alt text](img/1.png)
+
+<p><img src="img/1.png" width="50%" /></p>
 
 O Sensor Hall de Campo Magnético KY-024 é um módulo eletrônico desenvolvido com a finalidade de detectar a aproximação de um campo magnético. Este sensor pode detectar posições ou velocidade de um motor, por exemplo. Ao detectar um campo magnético, o sensor sofre uma variação em sua saída (analógica ou digital).
 
-– Especificações e características:
+# Especificações e características:
 
 – Modelo: KY-024
 
