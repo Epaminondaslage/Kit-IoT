@@ -1,10 +1,10 @@
 ## Tilt Switch
 
-![alt text](img/1.png)
+<p><img src="img/1.png" width="50%" /></p>
 
 O Módulo Sensor de Inclinação ou Sensor Tilt é capaz de identificar e indicar que determinado objeto se inclinou, em projetos de automação residencial geralmente é aplicado em sistemas antifurto. È um módulo desenvolvido para atuar em conjunto com sistemas microcontroladores, entre eles, Arduino, Raspberry PI, PIC, ARM, etc.
 
-## Dados Técnicos:
+# Dados Técnicos:
 
 - CI principal: LM393;
 - Precisão da inclinação: ~15-45°.
