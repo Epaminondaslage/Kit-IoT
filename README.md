@@ -62,7 +62,7 @@ https://github.com/nodemcu
 <table>
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="/img/kit.jpeg" width="100%" /></td>
+<td style="width: 30%;"><img src="img/kit_1.jpeg" width="100%" /></td>
 <td style="width: 70%;">
 <p> A caixa do KIT foi projetada e construída usando a tecnologia de impressão 3D. Já utilizada em diversos segmentos, em especial, para pequenas produções. Todas as peças plásticas foram feitas em impressoras tridimensionais com o objetivo de facilitar a montagem dos sensores aos microcontroladores e fonte de alimentação.</p>
 </td>
