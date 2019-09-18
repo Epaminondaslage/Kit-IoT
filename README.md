@@ -118,6 +118,11 @@ O laboratório de IoT está localizado na sala 706 do prédio 19 do Campus2 do C
 
 Neste repositótio está disponibilizado ppt, apostilas, manuais, etc.
 
+## Publicações com participação do autor 
+
+* <a href="sensores/Sensor_pequeno_de_som"> Sensor de som baixo</a>         		
+* <a href="sensores/Tilt_Switch"> Tilt Switch</a>
+
 ## Status
 
 Este repositório é para alunos do Curso de Eletrotécnica do CEFET-MG
