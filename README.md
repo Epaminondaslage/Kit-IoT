@@ -1,4 +1,7 @@
+<td style="width: 30%;"><img src="/img/CEFET.png" width="50%" /></td>
+## Laboratório de IoT do Curdo de Eletrotécnica
 ## Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU
+## Trabalho de DE Prof Epaminondas Lage
 
 Vivemos em uma época em que a evolução tecnológica surpreende – e, às vezes, assusta – por sua velocidade. Nos últimos anos, vimos a miniaturização de dispositivos eletrônicos e o aumento exponencial da capacidade de processamento e armazenamento de dados. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm garantido que cada vez mais possamos monitorar diferentes grandezas físicas e oferecer acesso simultâneo a dados por diferentes públicos. 
 
@@ -134,7 +137,7 @@ O laboratório de IoT está localizado na sala 702 do prédio 19 do Campus2 do C
 
 Neste repositótio está disponibilizado ppt, apostilas, manuais, etc.
 
-## Publicações com participação do autor 
+## Trabalhos publicados na área com participação do autor 
 
 * <a href="sensores/Sensor_pequeno_de_som"> Sensor de som baixo</a>         		
 * <a href="sensores/Tilt_Switch"> Tilt Switch</a>
