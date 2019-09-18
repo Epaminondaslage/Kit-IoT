@@ -1,24 +1,25 @@
-<td style="width: 30%;"><img src="/img/Logo_CEFET-MG.png" width="30%" /></td>
-
-## Laboratório de IoT do Curdo de Eletrotécnica
-
+<td style="width: 20%;"><img src="/img/Logo_CEFET-MG.png" width="20%" /></td>
+## Laboratório de IoT do Curso de Eletrotécnica
 <p><strong><span style="color: #0000ff;">Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
+<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
-Vivemos em uma época em que a evolução tecnológica surpreende – e, às vezes, assusta – por sua velocidade. Nos últimos anos, vimos a miniaturização de dispositivos eletrônicos e o aumento exponencial da capacidade de processamento e armazenamento de dados. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm garantido que cada vez mais possamos monitorar diferentes grandezas físicas e oferecer acesso simultâneo a dados por diferentes públicos. 
+## Introdução
+A evolução tecnológica surpreende e até mesmo nos assusta, seja por sua sua velocidade ou pelas mudanças repentinas. Acompanhamos a miniaturização da tecnologia e o aumento assintótico da capacidade de processamento e armazenamento de dados dos computadores. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm espaço garantidos nesta corrida e cada vez mais podemos observar diferentes grandezas físicas e oferecer acesso simultâneo a estas informações para diferentes públicos. 
 
-Dentro de uma indústria, monitorar grandezas como corrente elétrica, campo eletromagnético e temperatura permite que um sistema supervisório avalie o melhor momento de realizar uma manutenção preditiva. No setor de transportes e logística, o controle de movimentação de cargas e veículos permite o rastreio de encomendas e a gestão de frotas. Em uma cidade, o controle de tráfego pode ser otimizado pelo controle de velocidade e por semáforos inteligentes. Em construções, os sistemas de segurança estão cada vez mais interligados, permitindo uma avaliação mais adequada, precisa e integral dos riscos, seja pela polícia, seja pelos sistemas de segurança privados. No setor biomédico, sensores podem permitir a avaliação da queda de um idoso ou da forma como está sendo desenvolvida uma atividade física. Enfim, todas as “coisas” podem ser monitoradas ou fornecer dados. 
+Em uma indústria 4.0, podemos monitorar grandezas como campo eletromagnético, corrente elétrica, vazão, pressões, grandezas quimicas, temperatura entre outras e os sistema supervisórios indicando o melhor momento de realizar uma atuação. No setor automobilistico e de transporte, veículos completamente autônomos, carros com inúmeros sensores, o controle on-line de movimentação de carga. No setor médico, sensores podem permitir a avaliação de dados de pacientes de forma remota e preventiva, integrado com roupas e dispositivos de uso pessoal. Ou seja, todas as “coisas” podem ser monitoradas ou fornecer dados instantaneamente onde quer que estejam. 
 
-Esse é o fundamento da “Internet das Coisas”: proporcionar o acesso a dados por meio da internet, para os mais diferentes fins de automação, controle e otimização do cotidiano das pessoas. Este KIT apresenta informações introdutórias de como fazer isso utilizando uma das tecnologias embarcadas mais difundidas, a plataforma Arduino. O objetivo é despertar o interesse do aluno do Curso de Eletrotécnica do CEFET-MG para as mais diferentes aplicações baseadas nos conceitos da Internet das Coisas.
+Neste contexto apresentamos a era da “Internet das Coisas”. Ela proporciona o acesso a dados por meio de redes interconectadas com a internet, seja fins de automação ou para a otimização do dia-a-dia das pessoas. Este KIT apresenta informações introdutórias de como fazer com que este mundo seja apresentado aos nossos alunos, utilizando das tecnologias embarcadas mais difundidas, a plataforma de microprcessadores Arduino. O nosso objetivo é despertar o interesse do aluno do Curso de Eletrotécnica do CEFET-MG para as mais diferentes aplicações baseadas nos conceitos da Internet das Coisas.
 <p style="text-align: center;"><img src="img/iot.png" width="50%" />
 
-Neste repositório o aluno encontrará uma descrição completa do KIT de sensores do Laboratório de IoT do Curso de Eletrotécnica do CEFET-MG. Fundamente-se no aprendizado básico do microcontrolador Arduino com  sensores. Reunimos 37 sensores e módulos básicos, visando o aprendizado conveniente para iniciantes. Neste kit, existem sensores digitais e analógicos e também alguns módulos especiais, como ultrassom, Bluetooth, módulo de aceleração, entre outros.
+Neste repositório o aluno encontrará uma descrição completa do KIT de sensores do Laboratório de IoT do Curso de Eletrotécnica do CEFET-MG. Fundamente-se no aprendizado básico do microcontrolador Arduino com  sensores. Reunimos 37 sensores e módulos básicos, visando o aprendizado conveniente para iniciantes. Neste kit, existem sensores/atuadores digitais e analógicos e também alguns módulos especiais, como ultrassom, Bluetooth, módulo de aceleração, WIFI, entre outros.
 
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você seja totalmente novo, pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO, porque é de código aberto e fácil de usar. Se você tiver conhecimentos prévios, também pode aplicar este kit a outras plataformas de desenvolvimento de MCU, Raspberries Pi, etc. O princípio de funcionamento é praticamente o mesmo.
 
-Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
+Agora, vamos abraçar este mundo fascinante do ARDUINO e aprender juntos!
 ## Microcontroladores disponibilizados no Kit
 ## Arduino UNO
+https://github.com/arduino/Arduino
 <table>
 <tbody>
 <tr>
@@ -31,6 +32,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </table>
 
 ## Wemos D1
+https://github.com/wemos
 <table>
 <tbody>
 <tr>
@@ -43,6 +45,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </table>
 
 ## NodeMCU
+https://github.com/nodemcu
 <table>
 <tbody>
 <tr>
@@ -68,7 +71,6 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </table>
 
 ## Sensores/Atuadores
-
 <td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
 
 Reunimos sensores, atuadores, displays, LEDs, resistores e módulos básicos, visando o aprendizado conveniente para iniciantes. Dentro desta caixa, existem diversos módulos de sensores digitais e analógicos, atuadores e também alguns módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
@@ -78,7 +80,6 @@ Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto
 Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 
 ## Sensores/atuadores/módulos que compõem o kit
-
 * <a href="sensores/Botao">Botão</a> 
 * <a href="sensores/Buzzer">Buzzer</a>        		
 * <a href="sensores/Chave_de_mercurio">Chave de mercúrio</a>          	
@@ -127,22 +128,22 @@ O laboratório de IoT está localizado na sala 702 do prédio 19 do Campus2 do C
 - 10 Estações de Trabalho - Windows 7
 - IP's Fixos faixa 10.0.0.10 a 10.0.0.18. através de placa WIFI.
 - IDE Arduino com drives atualizados .
-- Suporte a placas Arduino UNO, ESP 8266, Wemos D1, NodeMCU V2
-- Drives de comunicção serial/USB atualizados para os processoadores em uso.
+- IDE com suporte às placas Arduino UNO, ESP 8266, Wemos D1, NodeMCU V2
+- Drives de comunicação serial/USB atualizados para os processoadores em uso.
 - Acesso ao repositório de arquivos no servidor 10.0.0.1.
-- Os dispositivos somente poderão se conectar à rede WII apenas com SSID e senha.
-- Esta rede não terá conexão com a Internet salvo momentos de atualização da IDE/libs e será feita através de liberação no firewall.
-- A rede terá ip fixo nas estações de trabalho e DHCP para os demais dispositivos.
-- O servidor de rede será um pc com Linux e servirá como broker de MQTT., servidor de arquivos, Firewall, DHCP Server, PROXY Server, etc.
+- Os dispositivos somente conectam à rede WIFI apenas com SSID e senha.
+- Esta rede não tem conexão com a Internet salvo momentos de atualização da IDE/libs e será feita através de liberação no firewall.
+- A rede tem ip fixo nas estações de trabalho e DHCP para os demais dispositivos.
+- O servidor de rede é um edgecomputer com Linux e serve como broker de MQTT, servidor de arquivos, Firewall, DHCP Server, PROXY Server, etc.
  
 ## Material Didático
 
-Neste repositótio está disponibilizado ppt, apostilas, manuais, etc.
+Neste <a href="/material_didatico"> repositório</a>  está disponibilizado ppt, apostilas, manuais, etc.
 
 ## Trabalhos publicados na área com participação do autor 
 
-* <a href="sensores/Sensor_pequeno_de_som"> Sensor de som baixo</a>         		
-* <a href="sensores/Tilt_Switch"> Tilt Switch</a>
+* <a href="https://ieeexplore.ieee.org/document/8263304"> Improving the consumption and water heating efficiency in smart buildings</a>         		
+* <a href="https://ieeexplore.ieee.org/abstract/document/8767325"> Low-Cost IoT Surveillance System Using Hardware-Acceleration and Convolutional Neural Networks</a>
 
 ## Status
 
