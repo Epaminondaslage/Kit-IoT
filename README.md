@@ -12,7 +12,7 @@ Neste repositório o aluno encontrará uma descrição completa do KIT de sensor
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você seja totalmente novo, pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO, porque é de código aberto e fácil de usar. Se você tiver conhecimentos prévios, também pode aplicar este kit a outras plataformas de desenvolvimento de MCU, Raspberries Pi, etc. O princípio de funcionamento é praticamente o mesmo.
 
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
-
+## Microcontroladores disponibilizados no Kit
 ## Arduino UNO
 <table>
 <tbody>
@@ -50,7 +50,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 
-## Kit
+## Kit - Parte física
 <table>
 <tbody>
 <tr>
@@ -62,13 +62,17 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 
-## Sensores
+## Sensores/Atuadores
 
 <td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
 
 Reunimos sensores, atuadores, displays, LEDs, resistores e módulos básicos, visando o aprendizado conveniente para iniciantes. Dentro desta caixa, existem diversos módulos de sensores digitais e analógicos, atuadores e também alguns módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
+
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você for um iniciante, você pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO e são fáceis de usar. Pode aplicar este kit a outras plataformas de desenvolvimento de MCU e WEMOS D1 os quais compões este kit. O princípio de funcionamento é praticamente o mesmo.
-Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
+
+Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
+
+## Sensores/atuadores/módulos que compõem o kit
 
 * <a href="sensores/Botao">Botão</a> 
 * <a href="sensores/Buzzer">Buzzer</a>        		
@@ -105,9 +109,19 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 * <a href="sensores/Sensor_pequeno_de_som"> Sensor de som baixo</a>         		
 * <a href="sensores/Tilt_Switch"> Tilt Switch</a>
 
+## Topologia de Rede do Laboratório
+
+O laboratório de IoT está localizado na sala 706 do prédio 19 do Campus2 do CEFET-MG. É utilizado em conjunto com outras disciplinas e possue 10 microcomputadores ligados em uma rede local isolada por um firewall da rede institucional do CEFETMG conforme topologia abaixo:
+<td style="width: 30%;"><img src="/img/redeiot.png" width="50%" /></td>
+
 ## Material Didático
 
 Neste repositótio está disponibilizado ppt, apostilas, manuais, etc.
+
+## Publicações com participação do autor 
+
+* <a href="sensores/Sensor_pequeno_de_som"> Sensor de som baixo</a>         		
+* <a href="sensores/Tilt_Switch"> Tilt Switch</a>
 
 ## Status
 
