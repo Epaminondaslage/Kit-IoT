@@ -71,7 +71,7 @@ https://github.com/nodemcu
 </tbody>
 </table>
 
-## Sensores/Atuadores
+## Sensores/atuadores/módulos
 <td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
 
 Reunimos sensores, atuadores, displays, LEDs, resistores e módulos básicos, visando o aprendizado conveniente para iniciantes. Dentro desta caixa, existem diversos módulos de sensores digitais e analógicos, atuadores e também alguns módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
