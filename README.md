@@ -1,4 +1,9 @@
-## Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU
+<td style="width: 30%;"><img src="/img/Logo_CEFET-MG.png" width="30%" /></td>
+
+## Laboratório de IoT do Curdo de Eletrotécnica
+
+<p><strong><span style="color: #0000ff;">Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
+<p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 
 Vivemos em uma época em que a evolução tecnológica surpreende – e, às vezes, assusta – por sua velocidade. Nos últimos anos, vimos a miniaturização de dispositivos eletrônicos e o aumento exponencial da capacidade de processamento e armazenamento de dados. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm garantido que cada vez mais possamos monitorar diferentes grandezas físicas e oferecer acesso simultâneo a dados por diferentes públicos. 
 
@@ -112,7 +117,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 ## Topologia de Rede do Laboratório
 
 O laboratório de IoT está localizado na sala 702 do prédio 19 do Campus2 do CEFET-MG. É utilizado em conjunto com outras disciplinas e possue 10 microcomputadores ligados em uma rede local isolada por um firewall da rede institucional do CEFETMG conforme topologia abaixo:
-<td style="width: 30%;"><img src="/img/redeiot.png" width="50%" /></td>
+<td style="width: 30%;"><img src="/img/Rede IOT CEFET.png" width="50%" /></td>
 
 ## Informaçoes Gerais de Operação
 
@@ -134,7 +139,7 @@ O laboratório de IoT está localizado na sala 702 do prédio 19 do Campus2 do C
 
 Neste repositótio está disponibilizado ppt, apostilas, manuais, etc.
 
-## Publicações com participação do autor 
+## Trabalhos publicados na área com participação do autor 
 
 * <a href="sensores/Sensor_pequeno_de_som"> Sensor de som baixo</a>         		
 * <a href="sensores/Tilt_Switch"> Tilt Switch</a>
