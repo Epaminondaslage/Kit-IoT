@@ -112,6 +112,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 ## Topologia de Rede do Laboratório
 
 O laboratório de IoT está localizado na sala 706 do prédio 19 do Campus2 do CEFET-MG. É utilizado em conjunto com outras disciplinas e possue 10 microcomputadores ligados em uma rede local isolada por um firewall da rede institucional do CEFETMG conforme topologia abaixo:
+<td style="width: 30%;"><img src="/img/redeiot.png" width="50%" /></td>
 
 ## Material Didático
 
@@ -120,8 +121,6 @@ Neste repositótio está disponibilizado ppt, apostilas, manuais, etc.
 ## Status
 
 Este repositório é para alunos do Curso de Eletrotécnica do CEFET-MG
-
-<td style="width: 30%;"><img src="/img/redeiot.png" width="50%" /></td>
 
 ## Contato
 
