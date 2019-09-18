@@ -72,6 +72,8 @@ Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto
 
 Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 
+## Sensores/atuadores/módulos que compõem o kit
+
 * <a href="sensores/Botao">Botão</a> 
 * <a href="sensores/Buzzer">Buzzer</a>        		
 * <a href="sensores/Chave_de_mercurio">Chave de mercúrio</a>          	
