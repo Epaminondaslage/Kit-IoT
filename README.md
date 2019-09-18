@@ -114,6 +114,22 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 O laboratório de IoT está localizado na sala 706 do prédio 19 do Campus2 do CEFET-MG. É utilizado em conjunto com outras disciplinas e possue 10 microcomputadores ligados em uma rede local isolada por um firewall da rede institucional do CEFETMG conforme topologia abaixo:
 <td style="width: 30%;"><img src="/img/redeiot.png" width="50%" /></td>
 
+## Informaçoes Gerais de Operação
+
+- 01 servidor de rede 
+- 01 roteador de WIFI
+- 10 KITs de trabalho e seus respectivos módulos/sensores.
+- 10 Estações de Trabalho - Windows 7
+- IP's Fixos faixa 10.0.0.10 a 10.0.0.18. através de placa WIFI.
+- IDE Arduino com drives atualizados .
+- Suporte a placas Arduino UNO, ESP 8266, Wemos D1, NodeMCU V2
+- Drives de comunicção serial/USB atualizados para os processoadores em uso.
+- Acesso ao repositório de arquivos no servidor 10.0.0.1.
+- Os dispositivos somente poderão se conectar à rede WII apenas com SSID e senha.
+- Esta rede não terá conexão com a Internet salvo momentos de atualização da IDE/libs e será feita através de liberação no firewall.
+- A rede terá ip fixo nas estações de trabalho e DHCP para os demais dispositivos.
+- O servidor de rede será um pc com Linux e servirá como broker de MQTT., servidor de arquivos, Firewall, DHCP Server, PROXY Server, etc.
+ 
 ## Material Didático
 
 Neste repositótio está disponibilizado ppt, apostilas, manuais, etc.
