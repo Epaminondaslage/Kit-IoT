@@ -1,4 +1,5 @@
 <td style="width: 10%;"><img src="/img/Logo_CEFET-MG.png" width="10%" /></td>
+<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
 ## Laboratório de IoT do Curso de Eletrotécnica
 <p><strong><span style="color: #0000ff;">Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
@@ -126,13 +127,13 @@ O laboratório de IoT está localizado na sala 702 do prédio 19 do Campus2 do C
 - 10 Estações de Trabalho - Windows 7
 - IP's Fixos faixa 10.0.0.10 a 10.0.0.18. através de placa WIFI.
 - IDE Arduino com drives atualizados .
-- Suporte a placas Arduino UNO, ESP 8266, Wemos D1, NodeMCU V2
-- Drives de comunicção serial/USB atualizados para os processoadores em uso.
+- IDE com suporte às placas Arduino UNO, ESP 8266, Wemos D1, NodeMCU V2
+- Drives de comunicação serial/USB atualizados para os processoadores em uso.
 - Acesso ao repositório de arquivos no servidor 10.0.0.1.
-- Os dispositivos somente poderão se conectar à rede WII apenas com SSID e senha.
-- Esta rede não terá conexão com a Internet salvo momentos de atualização da IDE/libs e será feita através de liberação no firewall.
-- A rede terá ip fixo nas estações de trabalho e DHCP para os demais dispositivos.
-- O servidor de rede será um pc com Linux e servirá como broker de MQTT., servidor de arquivos, Firewall, DHCP Server, PROXY Server, etc.
+- Os dispositivos somente conectam à rede WIFI apenas com SSID e senha.
+- Esta rede não tem conexão com a Internet salvo momentos de atualização da IDE/libs e será feita através de liberação no firewall.
+- A rede tem ip fixo nas estações de trabalho e DHCP para os demais dispositivos.
+- O servidor de rede é um edgecomputer com Linux e serve como broker de MQTT, servidor de arquivos, Firewall, DHCP Server, PROXY Server, etc.
  
 ## Material Didático
 
