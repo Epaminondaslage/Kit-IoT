@@ -139,7 +139,7 @@ O laboratório de IoT está localizado na sala 702 do prédio 19 do Campus2 do C
  
 ## Material Didático
 
-Neste repositótio está disponibilizado ppt, apostilas, manuais, etc.
+Neste<a href="/material_didatico"> repositótio</a>  está disponibilizado ppt, apostilas, manuais, etc.
 
 ## Trabalhos publicados na área com participação do autor 
 
