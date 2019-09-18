@@ -139,12 +139,12 @@ O laboratório de IoT está localizado na sala 702 do prédio 19 do Campus2 do C
  
 ## Material Didático
 
-Neste <a href="/material_didatico"> repositório</a>  está disponibilizado ppt, apostilas, manuais, etc. Ainda o <a href=https://drive.google.com/drive/folders/1h74WTgvRzxwx3UAW1LWIr4qBR6X4Qe4L?usp=sharing"> link</a>  para o google drive público do autor. 
+Neste <a href="/material_didatico"> repositório</a>  está disponibilizado ppt, apostilas, manuais, etc.
 
 ## Trabalhos publicados na área com participação do autor 
 
-* <a href="sensores/Sensor_pequeno_de_som"> Sensor de som baixo</a>         		
-* <a href="sensores/Tilt_Switch"> Tilt Switch</a>
+* <a href="https://ieeexplore.ieee.org/document/8263304"> Improving the consumption and water heating efficiency in smart buildings</a>         		
+* <a href="https://ieeexplore.ieee.org/abstract/document/8767325"> Low-Cost IoT Surveillance System Using Hardware-Acceleration and Convolutional Neural Networks</a>
 
 ## Status
 
