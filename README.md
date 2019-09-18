@@ -1,8 +1,9 @@
-<td style="width: 30%;"><img src="/img/CEFET.png" width="50%" /></td>
+<td style="width: 30%;"><img src="/img/Logo_CEFET-MG.png" width="30%" /></td>
 
 ## Laboratório de IoT do Curdo de Eletrotécnica
-## Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU
-## Trabalho de DE Prof Epaminondas Lage
+
+<p><strong><span style="color: #0000ff;">Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
+<p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 
 Vivemos em uma época em que a evolução tecnológica surpreende – e, às vezes, assusta – por sua velocidade. Nos últimos anos, vimos a miniaturização de dispositivos eletrônicos e o aumento exponencial da capacidade de processamento e armazenamento de dados. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm garantido que cada vez mais possamos monitorar diferentes grandezas físicas e oferecer acesso simultâneo a dados por diferentes públicos. 
 
