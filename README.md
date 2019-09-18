@@ -12,7 +12,7 @@ Neste repositório o aluno encontrará uma descrição completa do KIT de sensor
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você seja totalmente novo, pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO, porque é de código aberto e fácil de usar. Se você tiver conhecimentos prévios, também pode aplicar este kit a outras plataformas de desenvolvimento de MCU, Raspberries Pi, etc. O princípio de funcionamento é praticamente o mesmo.
 
 Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
-
+## Microcontroladores disponibilizados no Kit
 ## Arduino UNO
 <table>
 <tbody>
@@ -50,7 +50,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 
-## Kit
+## Kit - Parte física
 <table>
 <tbody>
 <tr>
@@ -62,7 +62,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e aprender juntos!
 </tbody>
 </table>
 
-## Sensores
+## Sensores/Atuadores
 
 <td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
 
