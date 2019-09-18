@@ -1,10 +1,11 @@
 <td style="width: 10%;"><img src="/img/Logo_CEFET-MG.png" width="10%" /></td>
-<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
 ## Laboratório de IoT do Curso de Eletrotécnica
 <p><strong><span style="color: #0000ff;">Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
+<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
+## Introdução
 Vivemos em uma época em que a evolução tecnológica surpreende – e, às vezes, assusta – por sua velocidade. Nos últimos anos, vimos a miniaturização de dispositivos eletrônicos e o aumento exponencial da capacidade de processamento e armazenamento de dados. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm garantido que cada vez mais possamos monitorar diferentes grandezas físicas e oferecer acesso simultâneo a dados por diferentes públicos. 
 
 Dentro de uma indústria, monitorar grandezas como corrente elétrica, campo eletromagnético e temperatura permite que um sistema supervisório avalie o melhor momento de realizar uma manutenção preditiva. No setor de transportes e logística, o controle de movimentação de cargas e veículos permite o rastreio de encomendas e a gestão de frotas. Em uma cidade, o controle de tráfego pode ser otimizado pelo controle de velocidade e por semáforos inteligentes. Em construções, os sistemas de segurança estão cada vez mais interligados, permitindo uma avaliação mais adequada, precisa e integral dos riscos, seja pela polícia, seja pelos sistemas de segurança privados. No setor biomédico, sensores podem permitir a avaliação da queda de um idoso ou da forma como está sendo desenvolvida uma atividade física. Enfim, todas as “coisas” podem ser monitoradas ou fornecer dados. 
