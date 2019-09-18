@@ -33,6 +33,7 @@ https://github.com/arduino/Arduino
 </table>
 
 ## Wemos D1
+https://github.com/wemos
 <table>
 <tbody>
 <tr>
@@ -45,6 +46,7 @@ https://github.com/arduino/Arduino
 </table>
 
 ## NodeMCU
+https://github.com/nodemcu
 <table>
 <tbody>
 <tr>
@@ -70,7 +72,6 @@ https://github.com/arduino/Arduino
 </table>
 
 ## Sensores/Atuadores
-
 <td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
 
 Reunimos sensores, atuadores, displays, LEDs, resistores e módulos básicos, visando o aprendizado conveniente para iniciantes. Dentro desta caixa, existem diversos módulos de sensores digitais e analógicos, atuadores e também alguns módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
@@ -80,7 +81,6 @@ Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto
 Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 
 ## Sensores/atuadores/módulos que compõem o kit
-
 * <a href="sensores/Botao">Botão</a> 
 * <a href="sensores/Buzzer">Buzzer</a>        		
 * <a href="sensores/Chave_de_mercurio">Chave de mercúrio</a>          	
