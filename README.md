@@ -1,4 +1,5 @@
 <td style="width: 20%;"><img src="/img/Logo_CEFET-MG.png" width="20%" /></td>
+
 ## Laboratório de IoT do Curso de Eletrotécnica
 <p><strong><span style="color: #0000ff;">Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
@@ -62,7 +63,7 @@ https://github.com/nodemcu
 <table>
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="/img/kit.jpeg" width="100%" /></td>
+<td style="width: 30%;"><img src="img/kit_1.jpeg" width="100%" /></td>
 <td style="width: 70%;">
 <p> A caixa do KIT foi projetada e construída usando a tecnologia de impressão 3D. Já utilizada em diversos segmentos, em especial, para pequenas produções. Todas as peças plásticas foram feitas em impressoras tridimensionais com o objetivo de facilitar a montagem dos sensores aos microcontroladores e fonte de alimentação.</p>
 </td>
@@ -70,7 +71,7 @@ https://github.com/nodemcu
 </tbody>
 </table>
 
-## Sensores/Atuadores
+## Sensores/atuadores/módulos
 <td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
 
 Reunimos sensores, atuadores, displays, LEDs, resistores e módulos básicos, visando o aprendizado conveniente para iniciantes. Dentro desta caixa, existem diversos módulos de sensores digitais e analógicos, atuadores e também alguns módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
