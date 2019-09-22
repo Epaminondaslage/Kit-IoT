@@ -1,3 +1,9 @@
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
 int LedPinA = 5;
 int LedPinB = 6;
 int ButtonPinA = 7;

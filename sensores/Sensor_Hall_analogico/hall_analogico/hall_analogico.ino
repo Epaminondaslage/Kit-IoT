@@ -1,6 +1,10 @@
-/* 
-KY-035 Hall analog sensor
-*/
+/***********************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
+// KY-035 Hall analog sensor
  
 int sensorPin = A5;    // select the input pin
 int ledPin = 13;       // select the pin for the LED

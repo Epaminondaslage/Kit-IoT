@@ -1,7 +1,11 @@
-/*
-KY-003 Hall magnetic switch
-*/
- 
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+* KY-003 Hall magnetic switch
+************************************************************/
+
 int Led = 13 ; // define LED Interface
 int SENSOR = 10 ; // define the Hall magnetic sensor interface
 int val ; // define numeric variables val

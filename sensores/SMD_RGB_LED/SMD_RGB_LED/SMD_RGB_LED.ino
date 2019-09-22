@@ -1,4 +1,11 @@
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
 //KY016 3-color LED module
+
 int redpin = 11; // select the pin for the red LED
 int bluepin = 10; // select the pin for the blue LED
 int greenpin = 9 ;// select the pin for the green LED

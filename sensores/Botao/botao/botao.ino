@@ -1,20 +1,23 @@
-/*
-  Botão
- Liga e desliga um diodo emissor de luz (LED) conectado ao
- pino 13, ao pressionar um botão preso ao pino 2.
- O circuito:
- * LED conectado do pino 13 ao terra
- * botão ligado ao pino 2 de + 5V
- * Resistor de 10K conectado ao pino 2 do chão
- * Nota: na maioria dos Arduinos já existe um LED na placa
- anexado ao pino 13.
- criado em 2005
- por DojoDave <http://www.0j0.org>
- modificado em 30 de agosto de 2011
- por Tom Igoe
- Este código de exemplo está no domínio público.
- http://www.arduino.cc/en/Tutorial/Button
- */
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+* Liga e desliga um diodo emissor de luz (LED) conectado ao
+* pino 13, ao pressionar um botão preso ao pino 2.
+* O circuito:
+* LED conectado do pino 13 ao terra
+* botão ligado ao pino 2 de + 5V
+* Resistor de 10K conectado ao pino 2 do chão
+* Nota: na maioria dos Arduinos já existe um LED na placa
+* anexado ao pino 13.
+* criado em 2005
+* por DojoDave <http://www.0j0.org>
+* modificado em 30 de agosto de 2011
+* por Tom Igoe
+* Este código de exemplo está no domínio público.
+* http://www.arduino.cc/en/Tutorial/Button
+************************************************************/
 
 // constants won't change. They're used here to
 // set pin numbers:

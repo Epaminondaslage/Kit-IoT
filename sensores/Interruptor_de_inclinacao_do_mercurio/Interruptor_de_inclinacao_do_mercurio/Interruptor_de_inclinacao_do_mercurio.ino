@@ -1,4 +1,10 @@
-//KY017 Mercury open optical module
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+* KY017 Mercury open optical module
+************************************************************/
 int Led = 13 ;// define LED Interface
 int buttonpin = 3; // define the mercury tilt switch sensor interface
 int val ;// define numeric variables val

@@ -1,9 +1,9 @@
-/*
-Blink
-Turns on an LED on for two second, then off for two second, repeatedly.
-This example code is in the public domain.
-*/
- 
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
 void setup () {
   // Initialize the digital pin as an output.
   // Pin 13 has an LED connected on most Arduino boards:

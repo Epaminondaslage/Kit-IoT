@@ -1,7 +1,12 @@
-//
-// Example code for sensor KY021
-// More info on http://tkkrlab.nl/wiki/Arduino_KY-021_Mini_magnetic_reed_modules
-//
+/***********************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+* Example code for sensor KY021
+* More info on http://tkkrlab.nl/wiki/Arduino_KY-021_Mini_magnetic_reed_modules
+************************************************************/
+
 int Led = 13 ;// define LED Interface
 int buttonpin = 3; // define the Reed sensor interfaces
 int val ;// define numeric variables val

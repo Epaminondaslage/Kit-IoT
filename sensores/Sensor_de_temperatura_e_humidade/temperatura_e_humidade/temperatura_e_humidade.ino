@@ -1,3 +1,9 @@
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
 //KY015 DHT11 Temperature and humidity sensor 
 int DHpin = 8;
 byte dat [5];

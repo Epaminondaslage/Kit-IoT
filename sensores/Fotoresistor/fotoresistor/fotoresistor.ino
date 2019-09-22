@@ -1,4 +1,10 @@
-//KY018 Photo resistor module
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+* KY018 Photo resistor module
+************************************************************/
  
 int sensorPin = A5; // select the input pin for the potentiometer
 int ledPin = 13; // select the pin for the LED

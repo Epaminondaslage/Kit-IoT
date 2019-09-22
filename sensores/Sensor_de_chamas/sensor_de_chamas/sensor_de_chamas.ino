@@ -1,3 +1,9 @@
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
 // lowest and highest sensor readings:
 const int sensorMin = 0;     // sensor minimum
 const int sensorMax = 1024;  // sensor maximum

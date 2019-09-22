@@ -1,4 +1,10 @@
-//Example code KY012 active buzzer
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+* Example code KY012 active buzzer
+************************************************************/
 int speakerPin = 8;
 void setup () {
   pinMode (speakerPin, OUTPUT);

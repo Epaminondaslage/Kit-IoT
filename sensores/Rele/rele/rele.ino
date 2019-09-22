@@ -1,4 +1,12 @@
-//KY019 5V relay module
+
+/***********************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+* KY019 5V relay module
+************************************************************/
+
 int relay = 10; // relay turns trigger signal - active high;
 void setup ()
 {

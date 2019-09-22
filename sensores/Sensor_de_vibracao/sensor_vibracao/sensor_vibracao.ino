@@ -1,3 +1,9 @@
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
 int Led = 13 ;// define LED Interface
 int Shock = 10; // define the vibration sensor interface
 int val; // define numeric variables val

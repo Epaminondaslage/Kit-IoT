@@ -1,3 +1,9 @@
+/***********************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
 // Arduino test code for KY011
 int redpin = 11; // select the pin for the red LED
 int greenpin = 10; // select the pin for the green LED

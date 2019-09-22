@@ -1,3 +1,9 @@
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
 int Led = 13 ;// define LED Interface
 int buttonpin = 3; // define D0 Sensor Interface
 int val = 0;// define numeric variables val

@@ -1,3 +1,10 @@
+/************************************************************
+* Laboratório IoT Eletrotécnica - CEFET-MG
+* Código de exemplo de uso de sensores
+* Prof. Elpaminondas Lage
+* 2019
+************************************************************/
+
 #include <math.h>
  
 int sensorPin = A5; // select the input pin for the potentiometer
@@ -24,4 +31,3 @@ void loop() {
  
  delay(500);
 }
-
