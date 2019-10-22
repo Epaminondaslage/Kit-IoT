@@ -45,16 +45,48 @@ https://github.com/wemos
 </tbody>
 </table>
 
-## NodeMCU
-https://github.com/nodemcu
+## ESP32 DEVKIT V1
+https://github.com/espressif/arduino-esp32
 <table>
 <tbody>
 <tr>
 <td style="width: 30%;"><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" width="100%" /></td>
 <td style="width: 70%;">
-<p>O NodeMCU &eacute; uma plataforma open source da fam&iacute;lia ESP8266 criado para ser utilizado no desenvolvimento de projetos ioT. Esta placa foi iniciada em 2014 e &eacute; bem interessante, pois ao contr&aacute;rio de alguns m&oacute;dulos desta fam&iacute;lia que necessitam de um conversor USB serial externo para que haja troca de informa&ccedil;&otilde;es entre computador e o m&oacute;dulo, o NodeMCU j&aacute; vem com um conversor USB serial integrado.</p>
-<p>Esta plataforma &eacute; composta basicamente por um chip controlador (ESP8266 ESP-12E), uma porta micro USB para alimenta&ccedil;&atilde;o e programa&ccedil;&atilde;o, conversor USB serial integrado e j&aacute; possui WiFi nativo.</p>
-</td>
+<p><h2 id="Caracteristicas do Chip ESP32">Caracter&iacute;sticas do Chip ESP32</h2>
+<p>Esse <strong>ESP32</strong> &eacute; um super chip !&nbsp; Ele possui dois Microprocessadores&nbsp; Xtensa&reg; 32-bit LX6&nbsp; com at&eacute; 600 DMIPS (velocidade de processamento). A frequ&ecirc;ncia do clock pode ser de at&eacute; 240 MHz, dependendo do modelo. A frequ&ecirc;ncia mais comum &eacute; 160 MHz ( 10 vezes o clock do Arduino Uno).</p>
+<ul>
+<li>mem&oacute;ria ROM&nbsp; interna de 448K Bytes (para Boot e Core)</li>
+<li>mem&oacute;ria RAM est&aacute;tica interna de 520K Bytes</li>
+<li>Mem&oacute;ria externa (total 4) &ndash; suporte para at&eacute; 16M Bytes Flash e 16M Bytes SRAM</li>
+<li>1 K Bit de Fus&iacute;veis eletr&ocirc;nicos (para seguran&ccedil;a e criptografia)</li>
+<li>Real Time Clock com 16K Bytes de SRAM</li>
+<li>Interface WIFI&nbsp;802.11 b/g/n &ndash; 802.11 n (2.4 GHz), at&eacute; 150 Mbps</li>
+<li>Interface Bluetooth&nbsp;v4.2 BR/EDR e&nbsp; Bluetooth LE (low energy)</li>
+<li>Dois grupos de Timers &ndash; 4 timers de 64 Bits</li>
+<li>Aceleradores de hardware&nbsp;(criptografia) &ndash; AES, SHA, RSA e ECC</li>
+<li>Alimenta&ccedil;&atilde;o VCC de 2,3V a 3,6V CC</li>
+<li>Consumo de corrente max com WIFI &ndash; 240 mA</li>
+</ul>
+<p><strong>Perif&eacute;ricos do Chip ESP32&nbsp;</strong></p>
+<ul>
+<li>34 &times; Portas program&aacute;veis GPIOs</li>
+<li>2 x Conversores ADC SAR 12-bits com at&eacute; 18 canais</li>
+<li>2 &times; Conversores DAC de 8-bits</li>
+<li>10 &times;&nbsp; sensores de toque</li>
+<li>Sensor de Temperatura</li>
+<li>4 &times; interfaces SPI &ndash; clock at&eacute; 40 MHz !</li>
+<li>2 &times; interfaces I2S &ndash; clock at&eacute; 40 MHz !</li>
+<li>2 &times; interfaces I2C&nbsp;&ndash; at&eacute; 5 Mbps</li>
+<li>3 &times; interfaces seriais UART &ndash; at&eacute; 5 Mbps !</li>
+<li>1 Host (SD/eMMC/SDIO) para controle de SD Cards</li>
+<li>1 Escravo (SDIO/SPI)</li>
+<li>Interface Ethernet MAC (necessita acess&oacute;rio)</li>
+<li>Interface CAN 2.0</li>
+<li>Interface Infra-vermelho&nbsp; (Tx/Rx)</li>
+<li>Controle de Motor PWM</li>
+<li>Controle de LED PWM at&eacute; 16 canais</li>
+<li>Sensor interno Hall</li>
+</ul></td>
 </tr>
 </tbody>
 </table>
