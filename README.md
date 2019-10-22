@@ -50,7 +50,7 @@ https://github.com/espressif/arduino-esp32
 <table>
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" width="100%" /></td>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/DOIT_ESP32-DevKit-V1_Top3.jpg" width="100%" /></td>
 <td style="width: 70%;">
 <p><h2 id="Caracteristicas do Chip ESP32">Caracter&iacute;sticas do Chip ESP32</h2>
 <p>Esse <strong>ESP32</strong> &eacute; um super chip !&nbsp; Ele possui dois Microprocessadores&nbsp; Xtensa&reg; 32-bit LX6&nbsp; com at&eacute; 600 DMIPS (velocidade de processamento). A frequ&ecirc;ncia do clock pode ser de at&eacute; 240 MHz, dependendo do modelo. A frequ&ecirc;ncia mais comum &eacute; 160 MHz ( 10 vezes o clock do Arduino Uno).</p>
