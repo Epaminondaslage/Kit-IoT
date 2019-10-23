@@ -92,16 +92,23 @@ https://github.com/espressif/arduino-esp32
 </table>
 
 ## Kit - Parte física
-<table>
+<table style="width: 566px;">
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="img/kit_1.jpeg" width="100%" /></td>
-<td style="width: 70%;">
-<p> A caixa do KIT foi projetada e construída usando a tecnologia de impressão 3D. Já utilizada em diversos segmentos, em especial, para pequenas produções. Todas as peças plásticas foram feitas em impressoras tridimensionais com o objetivo de facilitar a montagem dos sensores aos microcontroladores e fonte de alimentação.</p>
-</td>
+<td style="width: 173px;">img src="img/kit_1.jpeg</td>
+<td style="width: 160px;">img src="img/kit1.png</td>
+<td style="width: 211px;">img src="img/kit2.png</td>
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<td>A caixa do KIT foi projetada e constru&iacute;da usando a tecnologia de impress&atilde;o 3D. J&aacute; utilizada em diversos segmentos, em especial, para pequenas produ&ccedil;&otilde;es. Todas as pe&ccedil;as pl&aacute;sticas foram feitas em impressoras tridimensionais com o objetivo de facilitar a montagem dos sensores aos microcontroladores e fonte de alimenta&ccedil;&atilde;o.</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
 
 ## Sensores/atuadores/módulos
 <td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
