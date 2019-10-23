@@ -95,8 +95,8 @@ https://github.com/espressif/arduino-esp32
 <table style="width: 566px;">
 <tbody>
 <tr>
-<td style="width: 160px;"><img src="img/kit1.png" alt="" width="200" height="200" ></td>
-<td style="width: 211px;"><img src="img/kit2.png" alt="" width="200" height="200" ></td>
+<td style="width: 160px;"><img src="img/kit1.png" alt="" width="350" height="350" ></td>
+<td style="width: 211px;"><img src="img/kit2.png" alt="" width="350" height="350" ></td>
 </tr>
 </tbody>
 </table>
