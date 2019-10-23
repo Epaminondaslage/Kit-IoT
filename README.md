@@ -50,7 +50,7 @@ https://github.com/espressif/arduino-esp32
 <table>
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/NodeMCU/blob/master/Figuras/NodeMcu%20ESP-12.png" width="100%" /></td>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/DOIT_ESP32-DevKit-V1_Top3.jpg" width="100%" /></td>
 <td style="width: 70%;">
 <p><h2 id="Caracteristicas do Chip ESP32">Caracter&iacute;sticas do Chip ESP32</h2>
 <p>Esse <strong>ESP32</strong> &eacute; um super chip !&nbsp; Ele possui dois Microprocessadores&nbsp; Xtensa&reg; 32-bit LX6&nbsp; com at&eacute; 600 DMIPS (velocidade de processamento). A frequ&ecirc;ncia do clock pode ser de at&eacute; 240 MHz, dependendo do modelo. A frequ&ecirc;ncia mais comum &eacute; 160 MHz ( 10 vezes o clock do Arduino Uno).</p>
@@ -92,16 +92,23 @@ https://github.com/espressif/arduino-esp32
 </table>
 
 ## Kit - Parte física
-<table>
+<table style="width: 566px;">
 <tbody>
 <tr>
-<td style="width: 30%;"><img src="img/kit_1.jpeg" width="100%" /></td>
-<td style="width: 70%;">
-<p> A caixa do KIT foi projetada e construída usando a tecnologia de impressão 3D. Já utilizada em diversos segmentos, em especial, para pequenas produções. Todas as peças plásticas foram feitas em impressoras tridimensionais com o objetivo de facilitar a montagem dos sensores aos microcontroladores e fonte de alimentação.</p>
-</td>
+<td style="width: 173px;">img src="img/kit_1.jpeg</td>
+<td style="width: 160px;">img src="img/kit1.png</td>
+<td style="width: 211px;">img src="img/kit2.png</td>
 </tr>
 </tbody>
 </table>
+<table>
+<tbody>
+<tr>
+<td>A caixa do KIT foi projetada e constru&iacute;da usando a tecnologia de impress&atilde;o 3D. J&aacute; utilizada em diversos segmentos, em especial, para pequenas produ&ccedil;&otilde;es. Todas as pe&ccedil;as pl&aacute;sticas foram feitas em impressoras tridimensionais com o objetivo de facilitar a montagem dos sensores aos microcontroladores e fonte de alimenta&ccedil;&atilde;o.</td>
+</tr>
+</tbody>
+</table>
+<p><br /><br /></p>
 
 ## Sensores/atuadores/módulos
 <td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
@@ -122,8 +129,8 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 * <a href="sensores/Interruptor_de_inclinacao_do_mercurio"> Interruptor de inclinação do mercúrio</a>          	
 * <a href="sensores/Interruptor_reed"> Interruptor reed</a>         	
 * <a href="sensores/JoyStick"> JoyStick</a>         	
-* <a href="sensores/LED_Flash_de_7_Colore"> LED Flash de 7 Colores</a>         	
-* <a href="sensores/LED_de_duas_coreso"> LED de duas cores</a>       	
+* <a href="sensores/LED_Flash_de_7_Colores"> LED Flash de 7 cores</a>         	
+* <a href="sensores/LED_de_duas_cores"> LED de duas cores</a>       	
 * <a href="sensores/Mini_interruptor_reed"> Mini interruptor reed</a>          	
 * <a href="sensores/RGB_Led"> LED RGB</a>     	
 * <a href="sensores/Receptor_de_infravermelho"> Receptor de infravermelho</a>         	
