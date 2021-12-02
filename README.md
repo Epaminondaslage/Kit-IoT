@@ -1,6 +1,6 @@
 <td style="width: 20%;"><img src="/img/Logo_CEFET-MG.png" width="20%" /></td>
 
-## Laboratório de IoT do Curso de Eletrotécnica
+## Laboratório de IoT do DEE-Eletrotécnica
 <p><strong><span style="color: #0000ff;">Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
@@ -185,7 +185,7 @@ Neste <a href="/material_didatico"> repositório</a>  está disponibilizado ppt,
 
 ## Status
 
-Este repositório é para alunos do Curso de Eletrotécnica do CEFET-MG
+Este repositório é para alunos do DEE / Curso de Eletrotécnica do CEFET-MG
 
 ## Contato
 
