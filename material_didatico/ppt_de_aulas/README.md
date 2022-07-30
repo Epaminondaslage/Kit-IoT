@@ -1,3 +1,4 @@
+<td style="width: 20%;"><img src=https://github.com/Epaminondaslage/Automacao-industrial-e-residencial-Ecossistema-didatico/blob/main/img/Logo_CEFET-MG.png width="20%" /></td>
 # Ementa do Curso Programação Básica em Arduino
 
 * Introdução
