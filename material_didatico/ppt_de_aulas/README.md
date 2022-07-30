@@ -28,4 +28,3 @@ If
 If-Else
 Bibliotecas
 Bibliografia
-<img width="298" alt="image" src="https://user-images.githubusercontent.com/44790000/181921099-85596417-b86d-4395-8e56-c2179126033c.png">
