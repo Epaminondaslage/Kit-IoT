@@ -187,6 +187,4 @@ Neste <a href="/material_didatico"> repositório</a>  está disponibilizado ppt,
 
 Este repositório é para alunos do DEE / Curso de Eletrotécnica do CEFET-MG
 
-## Contato
 
-Criado/adaptado por Epaminondas de Souza Lage - epaminondaslage@gmail.com ou epaminondaslage@cefetmg.br
