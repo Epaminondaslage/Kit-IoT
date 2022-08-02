@@ -1,7 +1,5 @@
 <td style="width: 20%;"><img src="/img/Logo_CEFET-MG.png" width="20%" /></td>
-
-## Laboratório de IoT do DEE-Eletrotécnica
-<p><strong><span style="color: #0000ff;">Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
+<p><strong><span style="color: #0000ff;"> Kit IoT - Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
 <p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
 <a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
 
@@ -17,7 +15,7 @@ Neste repositório o aluno encontrará uma descrição completa do KIT de sensor
 
 Para cada módulo, há um diagrama de conexão e um código de exemplo. Portanto, mesmo se você seja totalmente novo, pode começar facilmente. Os códigos de exemplo para este kit de sensores são baseados no ARDUINO, porque é de código aberto e fácil de usar. Se você tiver conhecimentos prévios, também pode aplicar este kit a outras plataformas de desenvolvimento de MCU, Raspberries Pi, etc. O princípio de funcionamento é praticamente o mesmo.
 
-Agora, vamos abraçar este mundo fascinante do ARDUINO e aprender juntos!
+Agora, vamos abraçar este projeto com o ARDUINO e aprender juntos!
 ## Microcontroladores disponibilizados no Kit
 ## Arduino UNO
 https://github.com/arduino/Arduino
