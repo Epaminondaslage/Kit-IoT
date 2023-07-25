@@ -1,4 +1,4 @@
-<td style="width: 20%;"><img src="/img/KIT_IoT.png" width="100%" /></td>
+<td style="width: 20%;"><img src="/img/top_kit_iot.png" width="100%" /></td>
 
 ## Introdução
 A evolução tecnológica surpreende e até mesmo nos assusta, seja por sua sua velocidade ou pelas mudanças repentinas. Acompanhamos a miniaturização da tecnologia e o aumento assintótico da capacidade de processamento e armazenamento de dados dos computadores. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm espaço garantidos nesta corrida e cada vez mais podemos observar diferentes grandezas físicas e oferecer acesso simultâneo a estas informações para diferentes públicos. 
