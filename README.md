@@ -1,7 +1,4 @@
-<td style="width: 20%;"><img src="/img/Logo_CEFET-MG.png" width="20%" /></td>
-<p><strong><span style="color: #0000ff;"> Kit IoT - Internet das Coisas - Kit de desenvolvimento em Arduino, Wemos D1 e NodeMCU</span></strong></p>
-<p><strong><span style="color: #0000ff;">Prof Epaminondas Lage</span></strong></p>
-<a href="http://lattes.cnpq.br/7787341723868111"> Currículo Lattes LAGE, E. S.</a> 
+<td style="width: 20%;"><img src="/img/KIT_IoT.png" width="100%" /></td>
 
 ## Introdução
 A evolução tecnológica surpreende e até mesmo nos assusta, seja por sua sua velocidade ou pelas mudanças repentinas. Acompanhamos a miniaturização da tecnologia e o aumento assintótico da capacidade de processamento e armazenamento de dados dos computadores. Como consequência, áreas como automação, instrumentação industrial e telecomunicações têm espaço garantidos nesta corrida e cada vez mais podemos observar diferentes grandezas físicas e oferecer acesso simultâneo a estas informações para diferentes públicos. 
