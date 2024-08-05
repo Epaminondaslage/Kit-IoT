@@ -1,6 +1,6 @@
 # Kit-Arduino - Programas de Exemplo
 
-<td style="width: 20%;"><img src="/img/top_kit_iot.png" width="50%" /></td>
+<td style="width: 40%;"><img src="/img/top_kit_iot.png" width="100%" /></td>
 
 ## Introdução
 
