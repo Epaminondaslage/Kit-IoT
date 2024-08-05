@@ -1,6 +1,6 @@
 # Kit-Arduino - Programas de Exemplo
 
-<td style="width: 20%;"><img src="/img/top_kit_iot.png" width="100%" /></td>
+<td style="width: 20%;"><img src="/img/top_kit_iot.png" width="50%" /></td>
 
 ## Introdução
 
@@ -10,7 +10,7 @@ Em uma Indústria 4.0, podemos monitorar grandezas como campo eletromagnético, 
 
 Neste contexto, apresentamos a era da “Internet das Coisas”. Ela proporciona o acesso a dados por meio de redes interconectadas com a internet, seja para automação ou para a otimização do dia-a-dia das pessoas. Este KIT apresenta informações introdutórias sobre como introduzir este mundo aos nossos alunos, utilizando as tecnologias embarcadas mais difundidas, a plataforma de microcontroladores Arduino. Nosso objetivo é despertar o interesse do aluno do Curso de Eletrotécnica do CEFET-MG para as mais diversas aplicações baseadas nos conceitos da Internet das Coisas.
 
-<p style="text-align: center;"><img src="img/iot.png" width="50%" /></p>
+<p style="text-align: center;"><img src="img/iot.png" width="25%" /></p>
 
 Neste repositório, o aluno encontrará uma descrição completa do KIT de sensores para o aprendizado básico do microcontrolador Arduino com sensores. Reunimos 37 sensores e módulos básicos, visando o aprendizado conveniente para iniciantes. O kit inclui sensores/atuadores digitais e analógicos, além de módulos especiais como ultrassom, Bluetooth, módulo de aceleração e WIFI.
 
@@ -23,7 +23,7 @@ Agora, vamos abraçar este projeto com o ARDUINO e aprender juntos!
 ### Arduino UNO
 [Arduino UNO](https://github.com/arduino/Arduino)
 
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Arduino-Uno/blob/master/Figuras/Arduino%20Uno%20R3.png" width="100%" /></td>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Arduino-Uno/blob/master/Figuras/Arduino%20Uno%20R3.png" width="50%" /></td>
 <td style="width: 70%;">
 Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um microcontrolador Atmel AVR com suporte de entrada/saída embutido, uma linguagem de programação padrão (originada em Wiring), essencialmente C/C++. O objetivo do projeto é criar ferramentas acessíveis, com baixo custo, flexíveis e fáceis de usar por iniciantes e profissionais. Principalmente para aqueles que não teriam acesso a controladores mais sofisticados e ferramentas mais complicadas.
 </td>
@@ -31,7 +31,7 @@ Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de pla
 ### Wemos D1
 [Wemos D1](https://github.com/wemos)
 
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Wemos-D1/blob/master/Figuras/Placa%20Wemos%20D1%20R2.png" width="100%" /></td>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Wemos-D1/blob/master/Figuras/Placa%20Wemos%20D1%20R2.png" width="50%" /></td>
 <td style="width: 70%;">
 É uma plataforma de prototipagem que possui as mesmas dimensões do Arduino Uno R3. As principais diferenças são o conector micro USB e um ESP8266-12E. A Wemos D1 já conta com WiFi nativo, tornando-a uma plataforma extremamente atraente para desenvolvimento de projetos IoT.
 </td>
@@ -39,7 +39,7 @@ Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de pla
 ### ESP32 DEVKIT V1
 [ESP32 DEVKIT V1](https://github.com/espressif/arduino-esp32)
 
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/DOIT_ESP32-DevKit-V1_Top3.jpg" width="100%" /></td>
+<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/DOIT_ESP32-DevKit-V1_Top3.jpg" width="50%" /></td>
 <td style="width: 70%;">
 **Características do Chip ESP32**
 
@@ -83,8 +83,8 @@ Esse **ESP32** é um super chip! Possui dois microprocessadores Xtensa® 32-bit 
 <table style="width: 566px;">
 <tbody>
 <tr>
-<td style="width: 160px;"><img src="img/kit1.png" alt="" width="350" height="350" /></td>
-<td style="width: 211px;"><img src="img/kit2.png" alt="" width="350" height="350" /></td>
+<td style="width: 160px;"><img src="img/kit1.png" alt="" width="175" height="175" /></td>
+<td style="width: 211px;"><img src="img/kit2.png" alt="" width="175" height="175" /></td>
 </tr>
 </tbody>
 </table>
@@ -93,7 +93,7 @@ A caixa do KIT foi projetada e construída usando tecnologia de impressão 3D, j
 
 ## Sensores/Atuadores/Módulos
 
-<td style="width: 30%;"><img src="/img/sensores.jpg" width="50%" /></td>
+<td style="width: 30%;"><img src="/img/sensores.jpg" width="25%" /></td>
 
 Reunimos sensores, atuadores, displays, LEDs, resistores e módulos básicos, visando o aprendizado conveniente para iniciantes. O kit inclui diversos módulos de sensores digitais e analógicos, atuadores e módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
 
@@ -112,7 +112,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 * [Interruptor de Inclinação do Mercúrio](sensores/Interruptor_de_inclinacao_do_mercurio)
 * [Interruptor Reed](sensores/Interruptor_reed)
 * [JoyStick](sensores/JoyStick)
-* [LED Flash de 7 Cores](sensores/LED_Flash_de_7_Colores)
+* [LED Flash de 7 Cores](sensores/Flash_de_7_Colores)
 * [LED de Duas Cores](sensores/LED_de_duas_cores)
 * [Mini Interruptor Reed](sensores/Mini_interruptor_reed)
 * [LED RGB](sensores/RGB_Led)
@@ -142,7 +142,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 
 O laboratório de IoT está localizado na sala XXXX do prédio 19 do Campus2 do CEFET-MG. É utilizado em conjunto com outras disciplinas e possui microcomputadores ligados em uma rede local isolada por um firewall da rede institucional do CEFET-MG, conforme a topologia abaixo:
 
-<td style="width: 30%;"><img src="/img/Rede IOT CEFET.png" width="50%" /></td>
+<td style="width: 30%;"><img src="/img/Rede IOT CEFET.png" width="25%" /></td>
 
 ## Informações Gerais de Operação
 
