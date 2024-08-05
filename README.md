@@ -93,7 +93,7 @@ A caixa do KIT foi projetada e construída usando tecnologia de impressão 3D, j
 
 ## Sensores/Atuadores/Módulos
 
-<td style="width: 30%;"><img src="/img/sensores.jpg" width="25%" /></td>
+<td style="width: 60%;"><img src="/img/sensores.jpg" width="100%" /></td>
 
 Reunimos sensores, atuadores, displays, LEDs, resistores e módulos básicos, visando o aprendizado conveniente para iniciantes. O kit inclui diversos módulos de sensores digitais e analógicos, atuadores e módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
 
@@ -142,7 +142,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 
 O laboratório de IoT está localizado na sala XXXX do prédio 19 do Campus2 do CEFET-MG. É utilizado em conjunto com outras disciplinas e possui microcomputadores ligados em uma rede local isolada por um firewall da rede institucional do CEFET-MG, conforme a topologia abaixo:
 
-<td style="width: 30%;"><img src="/img/Rede IOT CEFET.png" width="25%" /></td>
+<td style="width: 60%;"><img src="/img/Rede IOT CEFET.png" width="100%" /></td>
 
 ## Informações Gerais de Operação
 
