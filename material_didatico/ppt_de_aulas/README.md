@@ -44,7 +44,7 @@ Este diretório contém o material didático e os guias de aula para o curso de 
 - Exemplos de aplicações e exercícios
 
 ### PPTs das Aulas
-- [Apresentação 1](https://docs.google.com/presentation/d/1xNcnfATCOnP69R0GXfWbdoShxTK1as-e/edit?usp=drive_link&ouid=101750793150395365396&rtpof=true&sd=true)
+- [Apresentação 1](https://docs.google.com/presentation/d/1xNcnfATCOnP69R0GXfWbdoShxTK1as-e/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)
 - [Apresentação 2](https://docs.google.com/presentation/d/15aVcfabaigF9RZD1qO9j5lWnm4hAVuIn/edit?usp=drive_link&ouid=101750793150395365396&rtpof=true&sd=true)
 
 
