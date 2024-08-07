@@ -93,7 +93,7 @@ A caixa do KIT foi projetada e construída usando tecnologia de impressão 3D, j
 
 ## Sensores/Atuadores/Módulos
 
-<td style="width: 60%;"><img src="/img/sensores.jpg" width="100%" /></td>
+<img src="/img/sensores.jpg" width="50%" >
 
 Reunimos sensores, atuadores, displays, LEDs, resistores e módulos básicos, visando o aprendizado conveniente para iniciantes. O kit inclui diversos módulos de sensores digitais e analógicos, atuadores e módulos especiais, como ultrassom, Bluetooth, WIFI, módulo de aceleração, displays de LED e LCD, etc.
 
