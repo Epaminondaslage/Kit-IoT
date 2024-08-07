@@ -39,7 +39,7 @@ Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de pla
 ### ESP32 DEVKIT V1
 [ESP32 DEVKIT V1](https://github.com/espressif/arduino-esp32)
 
-<img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/DOIT_ESP32-DevKit-V1_Top3.jpg" width="50%" >
+<img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/DOIT_ESP32-DevKit-V1_Top3.jpg" width="20%" >
 
 **Características do Chip ESP32**
 
