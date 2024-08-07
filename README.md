@@ -39,8 +39,8 @@ Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de pla
 ### ESP32 DEVKIT V1
 [ESP32 DEVKIT V1](https://github.com/espressif/arduino-esp32)
 
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/DOIT_ESP32-DevKit-V1_Top3.jpg" width="50%" /></td>
-<td style="width: 70%;">
+<img src="https://github.com/Epaminondaslage/Lab-IoT-ELE-CEFET/blob/master/img/DOIT_ESP32-DevKit-V1_Top3.jpg" width="50%" >
+
 **Características do Chip ESP32**
 
 Esse **ESP32** é um super chip! Possui dois microprocessadores Xtensa® 32-bit LX6 com até 600 DMIPS (velocidade de processamento). A frequência do clock pode ser de até 240 MHz, dependendo do modelo. A frequência mais comum é 160 MHz (10 vezes o clock do Arduino Uno).
