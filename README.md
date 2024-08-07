@@ -23,16 +23,16 @@ Agora, vamos abraçar este projeto com o ARDUINO e aprender juntos!
 ### Arduino UNO
 [Arduino UNO](https://github.com/arduino/Arduino)
 
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Arduino-Uno/blob/master/Figuras/Arduino%20Uno%20R3.png" width="50%" /></td>
-<td style="width: 70%;">
+<img src="https://github.com/Epaminondaslage/Arduino-Uno/blob/master/Figuras/Arduino%20Uno%20R3.png" width="30%" />
+
 Arduino é uma plataforma de prototipagem eletrônica de hardware livre e de placa única, projetada com um microcontrolador Atmel AVR com suporte de entrada/saída embutido, uma linguagem de programação padrão (originada em Wiring), essencialmente C/C++. O objetivo do projeto é criar ferramentas acessíveis, com baixo custo, flexíveis e fáceis de usar por iniciantes e profissionais. Principalmente para aqueles que não teriam acesso a controladores mais sofisticados e ferramentas mais complicadas.
-</td>
+
 
 ### Wemos D1
 [Wemos D1](https://github.com/wemos)
 
-<td style="width: 30%;"><img src="https://github.com/Epaminondaslage/Wemos-D1/blob/master/Figuras/Placa%20Wemos%20D1%20R2.png" width="50%" /></td>
-<td style="width: 70%;">
+<img src="https://github.com/Epaminondaslage/Wemos-D1/blob/master/Figuras/Placa%20Wemos%20D1%20R2.png" width="30%" >
+
 É uma plataforma de prototipagem que possui as mesmas dimensões do Arduino Uno R3. As principais diferenças são o conector micro USB e um ESP8266-12E. A Wemos D1 já conta com WiFi nativo, tornando-a uma plataforma extremamente atraente para desenvolvimento de projetos IoT.
 </td>
 
