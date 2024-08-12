@@ -42,5 +42,5 @@ Este diretório contém o material didático e os guias de aula para o curso de 
 ### 8. Projetos Práticos
 - Desenvolvimento de projetos práticos utilizando Arduino
 - Exemplos de aplicações e exercícios
-- 
+  
 
