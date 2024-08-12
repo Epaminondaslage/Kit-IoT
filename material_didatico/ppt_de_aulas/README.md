@@ -42,18 +42,5 @@ Este diretório contém o material didático e os guias de aula para o curso de 
 ### 8. Projetos Práticos
 - Desenvolvimento de projetos práticos utilizando Arduino
 - Exemplos de aplicações e exercícios
-
-### PPTs das Aulas
-
-- [Apresentação 1](https://docs.google.com/presentation/d/1xNcnfATCOnP69R0GXfWbdoShxTK1as-e/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)
-- [Apresentação 2](https://docs.google.com/presentation/d/15aVcfabaigF9RZD1qO9j5lWnm4hAVuIn/edit?usp=drive_link&ouid=101750793150395365396&rtpof=true&sd=true)
-
-### Projeto final de disciplina
-
-- [Projeto - Instruções Gerais](https://docs.google.com/presentation/d/1qHnl0xS7vUqv_oAijarzJGzUGFq1pJfB/edit?usp=sharing&ouid=101750793150395365396&rtpof=true&sd=true)
-
-
-
-)
 - 
 
