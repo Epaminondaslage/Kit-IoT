@@ -112,7 +112,7 @@ Agora, vamos abraçar este mundo fascinante de ARDUINO e IoT e aprender juntos!
 * [Interruptor de Inclinação do Mercúrio](sensores/Interruptor_de_inclinacao_do_mercurio)
 * [Interruptor Reed](sensores/Interruptor_reed)
 * [JoyStick](sensores/JoyStick)
-* [LED Flash de 7 Cores](sensores/Flash_de_7_Colores)
+* [LED Flash de 7 Cores](sensores/LED_Flash_de_7_Colores)
 * [LED de Duas Cores](sensores/LED_de_duas_cores)
 * [Mini Interruptor Reed](sensores/Mini_interruptor_reed)
 * [LED RGB](sensores/RGB_Led)
